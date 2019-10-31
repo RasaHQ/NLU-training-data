@@ -27,7 +27,7 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 
 ### Contributor Checklist
 
-* Format your training data in the NLU.md, title each section with the type of intent. 
+* Format your training data using markdown in the NLU.md file, title each section with the type of intent. 
 
 * Update the README.md file including a list of intents contained in your folder.  
 
