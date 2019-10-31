@@ -9,6 +9,7 @@ Each folder contains a set of categorized training data. Within each categorized
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
 * [Greetings](https://github.com/RasaHQ/rasa-training-data/tree/master/greetings)
+* [Mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
 * [Weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
 
 ---  
