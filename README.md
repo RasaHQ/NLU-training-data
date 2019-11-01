@@ -11,7 +11,9 @@ Each folder is a category of training data. Within each category there is an `NL
 
 ## How to contribute
 
-### Contributing to an existing category
+Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit with an existing category before creating a new one.
+
+### Contributing training data to an existing category
 
 To contribute via pull request, follow these steps:
 
@@ -23,7 +25,7 @@ To contribute via pull request, follow these steps:
 
 5. Create a pull request describing your changes. 
 
-### Creating a new category
+### Creating a new category of training data
 
 To contribute via pull request, follow these steps:
 
@@ -39,18 +41,12 @@ To contribute via pull request, follow these steps:
 
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
 
-### Keep in mind
-
-*  Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit with an existing category before creating a new one.
-*  Make sure to update the README.md file with a list of intents. 
-*  Format the data using Markdown.
-
 ---  
 
 ### Categories 
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
-* [Generic](https://github.com/RasaHQ/rasa-training-data/tree/master/greetings)
+* [Generic](https://github.com/RasaHQ/rasa-training-data/tree/master/generic)
 * [Mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
 * [Weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
 
