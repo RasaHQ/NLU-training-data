@@ -5,9 +5,9 @@ Crowd-sourced training data for the development and testing of Rasa NLU models.
 
 ## About this repository 
 
-This repository is built by contributors and we very much appreciate your support in expanding the collection of training data available to the community!
+We'd like to make training data easily accessible for anyone developing chatbots, therefore, this repository is open for contributions! 
 
-Each folder is a category of training data. Within each category there is an `NLU.md` file containing the training data sectioned by intent type and a `README.md` file, listing the intent types contained in `NLU.md`.
+We need your help to create a high quality open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
 
 ## How to contribute
 
@@ -19,21 +19,9 @@ To contribute via pull request, follow these steps:
 
 1. Create an issue describing the training data you would like to contribute. 
 
-2. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
+2. Create a new file with a category title and a `NLU.md` file, or contribute to an existing category.  
 
-3. Update the `README.md` file, include a list of the intent types added. 
-
-5. Create a pull request describing your changes. 
-
-### Creating a new category of training data
-
-To contribute via pull request, follow these steps:
-
-1. Create an issue describing the training data you would like to contribute.
-
-2. Create a new file with a category title and a `NLU.md` file. 
-
-3. In the `NLU.md` file, format your training data using markdown, and title each section with the type of intent e.g.`intent:mood_happy` or `intent:mood_unhappy` 
+3. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
 
 4. Update the `README.md` file, include a list of the intent types added. 
 
