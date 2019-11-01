@@ -11,7 +11,7 @@ Each folder is a category of training data. Within each category there is an `NL
 
 ## How to contribute
 
-Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit with an existing category before creating a new one.
+Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
 
 ### Contributing training data to an existing category
 
