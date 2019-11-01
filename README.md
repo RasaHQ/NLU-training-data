@@ -9,7 +9,7 @@ Our goal is to make training data easily accessible for anyone developing chatbo
 
 We need your help to create a high quality open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
 
-## How to contribute
+## How do I contribute?
 
 Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
 
