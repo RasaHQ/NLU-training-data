@@ -7,32 +7,46 @@ This repository is open for contributions and we very much appreciate your suppo
 
 Each folder is a category of training data. Within each category there is an `NLU.md` file containing the training data sectioned by intent type and a `README.md` file, listing the intent types contained in `NLU.md`.
 
+---  
+
+### How to contribute
+
+#### Contributing to an existing category
+
+To contribute via pull request, follow these steps:
+
+1. Create an issue describing the training data you would like to contribute 
+
+2. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
+
+3. Update the `README.md` file, include a list of the intent types added. 
+
+5. Create a pull request describing your changes 
+
+Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
+
+#### Creating a new category
+
+To contribute via pull request, follow these steps:
+
+1. Create an issue describing the training data you would like to contribute 
+
+2. Create a new file with a category title and an `NLU.md` file. In the `NLU.md` file, format your training data using markdown, and title each section with the type of intent e.g.`intent:mood_happy` or `intent:mood_unhappy`
+
+3. Update the `README.md` file, include a list of the intent types added. 
+
+5. Create a pull request describing your changes 
+
+Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
+
+---  
+
 ### Categories 
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
 * [Generic](https://github.com/RasaHQ/rasa-training-data/tree/master/greetings)
 * [Mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
 * [Weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
-
----  
-
-### How to contribute
-
-To contribute via pull request, follow these steps:
-
-1. Create an issue describing the training data you would like to contribute 
-
-2. Decide if you would like to contribute to an existing category or create a new one. 
-   * Each category contains an `NLU.md` file with multiple intents, if the category you would like to create only contains one intent, consider if it can be contributed as part of another category. 
-
-3. Format your training data using markdown in the `NLU.md` file, 
-   * Title each section of intents with the type of intent e.g. `intent:mood_happy` or `intent:mood_unhappy`
-
-4. Update the `README.md` file including a list of the type of intents contained in your folder. 
-
-5. Create a pull request describing your changes 
-
-Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
 
 ---  
 
