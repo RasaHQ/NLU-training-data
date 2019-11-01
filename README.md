@@ -1,13 +1,13 @@
 # Rasa Training Data
 Crowd-sourced training data for the development and testing of Rasa NLU models. 
 
+---
+
 ## About this repository 
 
 This repository is built by contributors and we very much appreciate your support in expanding the collection of training data available to the community!
 
 Each folder is a category of training data. Within each category there is an `NLU.md` file containing the training data sectioned by intent type and a `README.md` file, listing the intent types contained in `NLU.md`.
-
----  
 
 ## How to contribute
 
@@ -43,7 +43,7 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 
 ---  
 
-### Categories 
+## Categories 
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
 * [Generic](https://github.com/RasaHQ/rasa-training-data/tree/master/generic)
@@ -52,7 +52,7 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 
 ---  
 
-### About Rasa
+## About Rasa
 
 <img align="right" height="244" src="https://i.imgur.com/YR7ziAx.png">
 
