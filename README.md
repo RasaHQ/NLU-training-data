@@ -5,6 +5,8 @@ Crowd-sourced training data for the development and testing of Rasa NLU models.
 
 ## About this repository 
 
+<img align="right" height="200" src="https://i.imgur.com/YR7ziAx.png">
+
 Our goal here is to make training data easily accessible for anyone developing chatbots, therefore, this repository is open for contributions! 
 
 We need your help to create a high quality open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
@@ -37,8 +39,6 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 ---  
 
 ## About Rasa
-
-<img align="right" height="244" src="https://i.imgur.com/YR7ziAx.png">
 
 - **What does Rasa do? 🤔**
   [Check out our Website](https://rasa.com/)
