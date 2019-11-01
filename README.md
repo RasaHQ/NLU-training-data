@@ -13,9 +13,7 @@ We need your help to create a high quality open source dataset to empower chatbo
 
 Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
 
-### Contributing training data to an existing category
-
-To contribute via pull request, follow these steps:
+### To contribute via pull request, follow these steps:
 
 1. Create an issue describing the training data you would like to contribute. 
 
