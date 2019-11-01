@@ -23,8 +23,6 @@ To contribute via pull request, follow these steps:
 
 5. Create a pull request describing your changes. 
 
-Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
-
 ### Creating a new category
 
 To contribute via pull request, follow these steps:
@@ -40,7 +38,6 @@ To contribute via pull request, follow these steps:
 5. Create a pull request describing your changes. 
 
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
-
 
 ### Keep in mind
 
