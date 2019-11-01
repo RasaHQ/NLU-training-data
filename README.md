@@ -3,7 +3,7 @@ Crowd-sourced training data for the development and testing of Rasa NLU models.
 
 ## About this repository 
 
-This repository is open for contributions and we very much appreciate your support in expanding the collection of training data available to the community!
+This repository is built by contributors and we very much appreciate your support in expanding the collection of training data available to the community!
 
 Each folder is a category of training data. Within each category there is an `NLU.md` file containing the training data sectioned by intent type and a `README.md` file, listing the intent types contained in `NLU.md`.
 
