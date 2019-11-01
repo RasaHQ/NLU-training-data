@@ -5,7 +5,7 @@ Crowd-sourced training data for the development and testing of Rasa NLU models.
 
 ## About this repository 
 
-Our goal is to make training data easily accessible for anyone developing chatbots, therefore, this repository is open for contributions! 
+Our goal here is to make training data easily accessible for anyone developing chatbots, therefore, this repository is open for contributions! 
 
 We need your help to create a high quality open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
 
