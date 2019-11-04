@@ -4,5 +4,7 @@ This category is for generic intents that you would use for any assistant such a
 ## List of intents in this category:
 
 * greet
+
 * goodbye
+
 * affirm
