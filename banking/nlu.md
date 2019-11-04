@@ -14,40 +14,40 @@
  
 # intent:currency_ISO_code
  
-AED 
-AUD 
-BRL 
-CAD 
-CHF 
-CLP 
-CNY 
-COP 
-CZK 
-DKK 
-EUR 
-GBP 
-HKD 
-HUF 
-IDR 
-ILS 
-INR 
-JPY 
-KRW 
-MXN 
-MYR 
-NOK 
-NZD 
-PHP 
-PLN 
-RUB 
-SAR 
-SEK
-SGD 
-THB 
-TRY 
-TWD 
-USD 
-ZAR
+- AED 
+- AUD 
+- BRL 
+- CAD 
+- CHF 
+- CLP 
+- CNY 
+- COP 
+- CZK 
+- DKK 
+- EUR 
+- GBP 
+- HKD 
+- HUF 
+- IDR 
+- ILS 
+- INR 
+- JPY 
+- KRW 
+- MXN 
+- MYR 
+- NOK 
+- NZD 
+- PHP 
+- PLN 
+- RUB 
+- SAR 
+- SEK
+- SGD 
+- THB 
+- TRY 
+- TWD 
+- USD 
+- ZAR
 
 # intent:transfer_money
 
