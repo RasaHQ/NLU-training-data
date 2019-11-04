@@ -1,5 +1,5 @@
 # Training data for intent:mood
-This category is for intents that can be used to train bots for personal and business banking such as currencies, transaction  
+This category is for intents that can be used to train bots for personal and business banking such as currencies, account summaries, transactions etc.
 
 ## List of intents in this category:
 
