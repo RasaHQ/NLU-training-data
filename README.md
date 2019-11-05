@@ -1,4 +1,4 @@
-# Rasa Training Data
+# NLU Training Data
 Crowd-sourced training data for the development and testing of Rasa NLU models. 
 
 ---
