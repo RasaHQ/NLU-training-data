@@ -4,7 +4,7 @@ This category is for intents that relate to weather such as temperature, weather
 
 ## List of intents in this category:
 
-* weather_forecast
+* weather_type
 
 * temperature
 
