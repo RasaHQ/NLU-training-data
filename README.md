@@ -32,7 +32,7 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 ## Categories 
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
-* [Generic](https://github.com/RasaHQ/rasa-training-data/tree/master/generic)
+* [Small Talk](https://github.com/RasaHQ/rasa-training-data/tree/master/generic)
 * [Mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
 * [Weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
 
