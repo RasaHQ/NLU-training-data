@@ -1,4 +1,4 @@
-## intent:weather_forecast
+## intent:weather_type
 
 - lightning
 - blizzard
