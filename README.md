@@ -39,6 +39,8 @@ If you would like to contribute multi-intent utterences, please add a `+` to ind
 
 ### Where do I put intents that fall into multiple domains?
 
+Please create a new category for mixed domains, for example: “mixed-smalltalk-weather”
+
 ## Categories 
 
 * [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
