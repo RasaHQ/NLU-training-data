@@ -43,10 +43,10 @@ Please create a new category for mixed domains, for example: “mixed-smalltalk+
 
 ## Categories 
 
-* [Banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
-* [Small Talk](https://github.com/RasaHQ/rasa-training-data/tree/master/generic)
-* [Mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
-* [Weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
+* [banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
+* [smalltalk](https://github.com/RasaHQ/rasa-training-data/tree/master/smalltalk)
+* [mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
+* [weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
 
 ---  
 
