@@ -51,11 +51,11 @@
 
 # intent:transfer_money
 
-- make a transfer
-- transfer money
+- I would like to make a transfer
+- I want to transfer money
 
 # intent:show_accounts
  
- - list my accounts
- - show my accounts
- - get all accounts
+ - please list my accounts
+ - please show my accounts
+ - please get all my accounts
