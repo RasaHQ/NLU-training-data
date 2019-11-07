@@ -33,7 +33,7 @@ Your pull request will be reviewed by a maintainer, who will get back to you abo
 
 Please always put the domain at the end of each intent. For example: `ask_transport`
 
-### What do I do if multi-intent utterences? 
+### What do I do about multi-intent utterences? 
 
 If you would like to contribute multi-intent utterences, please add a `+` to indicate an additional intent, for example: `affirm+ask_transport`
 
