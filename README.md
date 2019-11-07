@@ -7,10 +7,9 @@ Crowd-sourced training data for the development and testing of Rasa NLU models.
 
 <img align="right" height="200" src="https://i.imgur.com/YR7ziAx.png">
 
-Our goal here is to make training data easily accessible for anyone developing chatbots, therefore, this repository is open for contributions!
+This is an experiment with the goal of providing basic training data for developing chatbots, therefore, this repository is open for contributions!
 
-
-We need your help to create a high quality open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
+We need your help to create an open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
 
 ## How do I contribute?
 
@@ -30,7 +29,13 @@ Each category should contain a list of multiple intents, consider if the set of 
 
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
 
-### Where should I put multi-intent utterences? 
+### How should I label my intents?
+
+Please always put the domain at the end of each intent. For example: `ask_transport`
+
+### What do I do if multi-intent utterences? 
+
+If you would like to contribute multi-intent utterences, please add a `+` to indicate an additional intent, for example: `affirm+ask_transport`
 
 ### Where do I put intents that fall into multiple domains?
 
