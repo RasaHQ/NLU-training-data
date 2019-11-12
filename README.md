@@ -46,8 +46,7 @@ Please create a new category for mixed domains, for example: “mixed-smalltalk+
 ### What about training data that’s not in English? 
 
 Currently, we are unable to evaluate the quality of all language contributions, and therefore, during the initial phase we can only accept English training data to the repository.
-However, in the long-term we would like to provide a larger variety of localised training data with the support of our global community.
-
+However, we understand that the Rasa community is a global one, and in the long-term we would like to find a solution for this in collaboration with the community. 
 
 ## Categories 
 
