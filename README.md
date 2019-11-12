@@ -29,7 +29,7 @@ Each category should contain a list of multiple intents, consider if the set of 
 
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
 
-## F.A.Q.
+## FAQs
 
 ### How should I label my intents?
 
