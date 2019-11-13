@@ -11,7 +11,7 @@ This is an experiment with the goal of providing basic training data for develop
 
 We need your help to create an open source dataset to empower chatbot makers and conversational AI enthusiasts alike, and we very much appreciate your support in expanding the collection of data available to the community.
 
-## How do I contribute?
+## How do I donate my data?
 
 Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
 
