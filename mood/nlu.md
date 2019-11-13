@@ -31,7 +31,7 @@
 - I am great
 - I'm good
 
-## intent:user-angry
+## intent:mood_angry
 - I'm angry
 - I'm furious
 - I'm enraged
@@ -39,28 +39,28 @@
 - I'm mad
 - I'm angry with you
 
-## intent:user-bored
+## intent:mood_bored
 - boring
 - this is boring
 - I'm getting bored
 - it bores me
 - that was boring
 
-## intent:user-busy
+## intent:mood_busy
 - I got work to do
 - I'm busy
 - I'm overloaded
 - I'm working
 - I got things to do
 
-## intent:user-cannotsleep
+## intent:mood_cannotsleep
 - I'm insomniac
 - I cannot sleep
 - I can't sleep
 - I'm sleepless
 - I can't fall sleep
 
-## intent:user-excited
+## intent:mood_excited
 - I'm very excited
 - I'm thrilled
 - how excited I am
