@@ -59,3 +59,12 @@
  - please list my accounts
  - please show my accounts
  - please get all my accounts
+ - show me my accounts details 
+
+# intent:show_credit_cards
+
+ - please show my credit cards
+ - please list my credit cards
+ - show me my credit cards details
+ - what is my credit cards outstanding
+ 
