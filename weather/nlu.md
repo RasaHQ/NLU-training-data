@@ -19,7 +19,7 @@
 - tornadoes
 - windy
 
-## intent:temprature
+## intent:temperature
 
 - degrees centigrade
 - degrees Celsius
