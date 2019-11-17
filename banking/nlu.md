@@ -12,7 +12,7 @@
 - Swiss Franc
 - United States Dollar
  
-# intent:currency_ISO_code
+## intent:currency_ISO_code
  
 - AED 
 - AUD 
@@ -49,12 +49,12 @@
 - USD 
 - ZAR
 
-# intent:transfer_money
+## intent:transfer_money
 
 - I would like to make a transfer
 - I want to transfer money
 
-# intent:show_accounts
+## intent:show_accounts
  
  - please list my accounts
  - please show my accounts
