@@ -13,13 +13,13 @@ We need your help to create an open source dataset to empower chatbot makers and
 
 ## How do I donate my training data?
 
-Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
+Each folder should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing folder before creating a new one.
 
 ### To contribute via pull request, follow these steps:
 
 1. Create an issue describing the training data you would like to contribute. 
 
-2. Create a new file with a category title and a `NLU.md` file, or contribute to an existing category.  
+2. Create a new file with a folder title and a `NLU.md` file, or contribute to an existing folder.  
 
 3. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
 
@@ -41,7 +41,7 @@ If you would like to contribute multi-intent utterences, please add a `+` to ind
 
 ### Where do I put intents that fall into multiple domains?
 
-Please create a new category for mixed domains, for example: “mixed-smalltalk+weather”
+Please create a new folder for mixed domains, for example: “mixed-smalltalk+weather”
 
 ### What about training data that’s not in English? 
 
