@@ -8,6 +8,6 @@ This category is for intents that relate to weather such as temperature, weather
 
 * temperature_weather
 
-* ask_weather_forecast
+* ask_forecast_weather
 
  
