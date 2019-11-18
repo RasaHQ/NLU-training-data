@@ -4,10 +4,10 @@ This category is for intents that relate to weather such as temperature, weather
 
 ## List of intents in this category:
 
-* type_weather
+* type_weather (type of weather)
 
-* temperature_weather
+* temperature_weather (outside temprature)
 
-* ask_forecast_weather
+* ask_forecast_weather (ask for the weather forecast) 
 
  
