@@ -21,7 +21,7 @@ Each folder should contain a list of multiple intents, consider if the set of tr
 
 2. Create a new file with a folder title and a `NLU.md` file, or contribute to an existing folder.  
 
-3. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
+3. In the `NLU.md` file, format your training data using markdown, remove all entities (see [script](https://github.com/RasaHQ/NLU-training-data#Why-do-I-need-to-remove-entities-from-my-training-data)), title each section with the intent types and add a short description e.g.`intent:mood_happy <!--expressing happy mood-->` or `intent:mood_unhappy <!--expressing unhappy mood-->`
 
 4. Update the `README.md` file, include a list of the intent types added. 
 
@@ -41,12 +41,18 @@ If you would like to contribute multi-intent utterences, please add a `+` to ind
 
 ### Where do I put intents that fall into multiple domains?
 
-Please create a new folder for mixed domains, for example: “mixed-smalltalk+weather”
+Please create a new folder for mixed domains, for example: “mixed-smalltalk+transport”
 
 ### What about training data that’s not in English? 
 
 Currently, we are unable to evaluate the quality of all language contributions, and therefore, during the initial phase we can only accept English training data to the repository.
 However, we understand that the Rasa community is a global one, and in the long-term we would like to find a solution for this in collaboration with the community. 
+
+### Why do I need to remove entities from my training data? 
+
+We would like to make the training data as easy as possible to adopt to new training models and annotating entities is personalized and highly dependant on your bots purpose. Therefore, we will first focus on collecting training data that only includes intents.
+
+To help you remove the annotated entities from your training data, you can run [this script](https://github.com/RasaHQ/NLU-training-data/blob/master/Remove%20Entity%20Annotations:%20Python%20Script). 
 
 ## Categories 
 
