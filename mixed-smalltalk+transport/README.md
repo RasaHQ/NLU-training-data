@@ -4,6 +4,6 @@ This category is for any intent that mixes smalltalk + transport for example, to
 
 ## List of intents in this category:
 
-## intent:affirm+ask_transport
+* intent:affirm+ask_transport
 
  
