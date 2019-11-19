@@ -41,7 +41,7 @@ If you would like to contribute multi-intent utterences, please add a `+` to ind
 
 ### Where do I put intents that fall into multiple domains?
 
-Please create a new folder for mixed domains, for example: “mixed-smalltalk+transport”
+Please create a new folder for mixed domains, for example: [“mixed-smalltalk+transport”](https://github.com/RasaHQ/NLU-training-data/tree/master/mixed-smalltalk+transport)
 
 ### What about training data that’s not in English? 
 
