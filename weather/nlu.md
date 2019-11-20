@@ -1,4 +1,4 @@
-## intent:weather_type
+## intent:type_weather <!--type of weather.-->
 
 - lightning
 - blizzard
@@ -19,7 +19,7 @@
 - tornadoes
 - windy
 
-## intent:temperature
+## intent:temperature_weather <!--measurement of temperature.-->
 
 - degrees centigrade
 - degrees Celsius
@@ -28,7 +28,7 @@
 - above zero
 - below zero
 
-## intent:ask_weather_forecast
+## intent:ask_forecast_weather <!--The user ask for the current weather forecast.-->
 
  - What is the weather forecast today?
  - What is the weather today?

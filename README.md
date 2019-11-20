@@ -13,15 +13,15 @@ We need your help to create an open source dataset to empower chatbot makers and
 
 ## How do I donate my training data?
 
-Each category should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing category before creating a new one.
+Each folder should contain a list of multiple intents, consider if the set of training data you're contributing could fit within an existing folder before creating a new one.
 
 ### To contribute via pull request, follow these steps:
 
 1. Create an issue describing the training data you would like to contribute. 
 
-2. Create a new file with a category title and a `NLU.md` file, or contribute to an existing category.  
+2. Create a new file with a folder title and a `NLU.md` file, or contribute to an existing folder.  
 
-3. In the `NLU.md` file, format your training data using markdown, and title each section with the intent types e.g.`intent:mood_happy` or `intent:mood_unhappy`
+3. In the `NLU.md` file, format your training data using markdown, remove all entities (see [script](https://github.com/RasaHQ/NLU-training-data/blob/master/entity-removal-script)), title each section with the intent types and add a short description e.g.`intent:inform_rain <!--The user says that it is currently raining somewhere.-->` 
 
 4. Update the `README.md` file, include a list of the intent types added. 
 
@@ -41,19 +41,18 @@ If you would like to contribute multi-intent utterences, please add a `+` to ind
 
 ### Where do I put intents that fall into multiple domains?
 
-Please create a new category for mixed domains, for example: “mixed-smalltalk+weather”
+Please create a new folder for mixed domains, for example: [“mixed-smalltalk+transport”](https://github.com/RasaHQ/NLU-training-data/tree/master/mixed-smalltalk+transport)
 
 ### What about training data that’s not in English? 
 
 Currently, we are unable to evaluate the quality of all language contributions, and therefore, during the initial phase we can only accept English training data to the repository.
 However, we understand that the Rasa community is a global one, and in the long-term we would like to find a solution for this in collaboration with the community. 
 
-## Categories 
+### Why do I need to remove entities from my training data? 
 
-* [banking](https://github.com/RasaHQ/rasa-training-data/tree/master/banking)
-* [smalltalk](https://github.com/RasaHQ/NLU-training-data/tree/master/smalltalk)
-* [mood](https://github.com/RasaHQ/rasa-training-data/tree/master/mood)
-* [weather](https://github.com/RasaHQ/rasa-training-data/tree/master/weather)
+We would like to make the training data as easy as possible to adopt to new training models and annotating entities highly dependant on your bot’s purpose. Therefore, we will first focus on collecting training data that only includes intents.
+
+To help you remove the annotated entities from your training data, you can run [this script](https://github.com/RasaHQ/NLU-training-data/blob/master/entity-removal-script). 
 
 ---  
 
