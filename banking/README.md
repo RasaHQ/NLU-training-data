@@ -5,8 +5,6 @@ This category is for intents that can be used to train bots for personal and bus
 
  * currency
 
- * currency_ISO_code
-
  * transfer_money
 
  * show_accounts
