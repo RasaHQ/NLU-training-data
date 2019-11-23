@@ -24,7 +24,7 @@
  - please get all my accounts
  - show me my accounts details 
 
-# intent:show_credit_cards
+# intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
  - please show my credit cards
  - please list my credit cards
