@@ -1,0 +1,717 @@
+## intent:greet
+- hey
+- hey how are you
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hey Bot
+- hi bot
+- hey bot
+- hi again
+- hi folks
+- hi mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+
+## intent:goodbye
+- bye
+- goodbye
+- see you later
+- bye bot
+- goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:thankyou
+- thanks
+- thank you
+- thank you so much
+- thanks bot
+- thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+
+## intent:transfer_amount
+- i want to transfer money
+- transfer money to [john](name)
+- want to transfer my fund to [mark roe](name)
+- i want to ft [50](amount)
+- transfer funds [4000](amount)
+- give [2500](amount) money
+- send [500](amount)
+- Transfer [200](amount) dollar to [janes andreson](name)
+- I want to transfer [1500](amount) dollar online
+- [250](amount) dollar
+- transfer an amount of [800](amount) dollar
+- fund transfer to [michael](name)
+- ibft to [tim james](names)
+- Transfer money to [rinehert](name)
+- send my amount to [rakesh](name)
+- forward funds amount to [michael smith](name)
+- online transfer to [emily](name)
+- ft my money to [eliza](name)
+- ibft amount to [victoria](name)
+- fund transfer to [zoey](name)
+- send money to [cindy](name)
+- transfer to [isabella](name)
+- ibft to [anna smith](name)
+- transfer money [200](amount) dollar
+- online transfer [98999](amount)
+- [2000](amount) dollar
+- an amount of [340](amount) dollar
+- transfer funds [200](amount) to [john smith](name)
+- ibft [800](amount) to [olivia](name)
+- transfer [500](amount) to [mark roe](name)
+- transfer amount [1000](amount) to [gowtham raj](name)
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+- nah, I'm good - how are you doing?
+- how are yuo
+- How are you
+- how are you
+- how you doing
+- are you ok
+- How are you today?
+- how are u?
+- okay hi how are you?
+- how r u
+- how r u
+- and you
+- How are you men?
+- what's up?
+- how are you????
+- how ?
+- how r u ?
+- h r u ?
+- how's it going?
+- hello, how are you?
+- hw r u?
+- what's up
+- wassup
+- hi how u doing
+- hi how u doing
+- Hi Bot! How are you?
+- how are you ?
+- how are you'
+- how are you doing today?
+- how you doing?
+- How are You?
+- what doing
+- what doing
+- how are xou
+- hi how are you?
+- hi bot, how are you?
+- Hows it going
+- How you doing?
+
+
+## intent:ask_whatspossible
+- help
+- help please
+- i don't know what i want
+- I need some help
+- options
+- show me the menu
+- show me what's possible
+- so what can you do
+- so what can you help me with?
+- what are you good at?
+- what can I do here
+- what can I do with this bot
+- what is this bot for
+- cool! can I do something else here?
+- help me
+- talk to me!
+- come back
+- how can you help me
+- what else can i do
+- are there any other options?
+- hm that doesnt quite help me is there anything else you can do?
+- what can i do here
+- what can i do now
+- um what now
+- so now what
+- help?
+- now what?
+- talk to me
+- Great, is there anything else you can do, bot?
+- what can you do?
+- how can you help me?
+- can you do anything else?
+- i asked you if you can do anything else
+- anything els
+- so what next?
+- what else can I do here?
+- Can you explain me in one sentence what you are doing?
+- what are the options?
+- what else can i do?
+- so what can you do?
+- what can you do
+- how you help me
+- what are you doing
+- what are you ding
+- what are you ding
+- help me
+- tell me something you can do
+- what do you do?
+- what you can do
+- What can you do?
+- what can you answer
+- what do you do
+- what do you know except this?
+- can I ask you anything else?
+- how can i use you
+- what can I ask ?
+- what can you offer me?
+- What can you do for me?
+- more info
+- Can you help me?
+- what can you tell me
+- What do you do
+- help pls
+- what can you do
+- what can u do
+- what else can you do?
+- what can you do for me
+- tell me what's your skill
+- what cn u do for me ?
+- what you doing?
+- Could you please show me what you can/
+- what else can you help with?
+- what else can you help with?
+- What are my options
+- How can you help me
+- can you help me?
+- what u can do
+- what you can do?
+- what you can do for me?
+- how u can help me
+- what can you?
+- what you talk about?
+- what you do
+- can you help me
+- i need help
+- I need help
+- what can you do, sara?
+- hello what can you do for me
+- What are you able to do?
+- what u can do?
+- What can you tell me?
+- hi. bot what do you do?
+- how can you help?
+- What can I ask you?
+- How you help me?
+- what are all the things you understand?
+
+## intent:handleinsult
+- you're a loser lmao
+- you are a stupid bot
+- i hate you
+- Stupid
+- fuck you
+- so dumb
+- you are a moron
+- you are an idiot
+- so fucking dumb
+- are you brain dead?
+- how can you be such an idiot?
+- a baby knows more than you
+- i hate your dumb face
+- you are fucking stupid
+- bloody dunce
+- You're an idiot.
+- You are a fool.
+- You're foolish.
+- You are dumb.
+- You have no sense.
+- You are unintelligent.
+- You're a dolt.
+- You're a dunce.
+- You have no brains.
+- You have no intelligence.
+- You are dumb.
+- You are an idiot.
+- You lack intelligence.
+- You are unknowing.
+- You are shortsighted.
+- Your intelligence is laughable.
+- You know nothing.
+- You lack understanding.
+- Your mindset is naive.
+- You brain is dull.
+- you are dumb
+- you're an idiot
+- God you're a moron
+- you're so dumb
+- you are idiotic
+- you're the most moronic person I know
+- I can't believe how dumb you are
+- you are unintelligent
+- you're not smart
+- you are so ignorant
+- you are stupid
+- you're dumb
+- asshole
+- bitch
+- fuck u
+- idiot
+- deal with my ass, you bitch
+- you son of a bitch
+- shut up asshole
+- you asshole
+- are u dump?
+- are u dump?
+- fuck off
+- fuck
+- Fuck
+- Fuck you
+- fuck you machine learning bot
+- Fuck u
+- fuck you
+- what fuck
+- fucking stupid
+- you are fucking stupid guy！
+- go fuck yourself
+- Fuck off
+- Fuck off
+- fuck Bot
+- fuck you!
+- Fuck Off
+- ok fuck you
+- FUCK
+- fucking work
+- ok shut up
+
+## intent:ask_whoisit
+- who is this
+- who am i talking to
+- what's your name
+- who am i speaking with
+- who r u
+- what's your name bot
+- whats ur name
+- what are you called?
+- who is talking?
+- who speaks?
+- who talks?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- who are you
+- I want to know who you are
+- who are y
+- yes but who are you in your heart
+- who is this?
+- hi! what's your name?
+- what is your name
+- What is your name
+- what's your name?
+- who are you??
+- who ARE YO
+- tell me something about you
+- who is this bot
+- who are you ?
+- who ar eyou
+- Who are yopu?
+- whats your name
+- what is your name?
+- Who are you
+- Whats your name?
+- what's your name ?
+- So who are you ?
+- who are you
+- What is your name?
+- Hello. What's your name?
+- What's your name?
+- What's your name
+- ok who are you ?
+- whats your name'
+- como te llamas
+- Who are you?
+- what your name?
+- WHo are you ?
+- WHat's your name ?
+- whom i talking to
+- who r you
+- hey what is your name
+- what is Bot?
+
+## intent:ask_isbot
+- are you a bot?
+- are you a real bot?
+- are you a bot
+- are you really a bot
+- are you a robot
+- are you a robot
+- are you a Bot bot?
+- are you a Bot bot?
+- what are you, a bot?
+- tell me, are you a bot?
+- are you a chatbot
+- are you ai
+- are you artificial intelligence
+- are you artificial
+- i guess you are a chatbot
+- you are a robot
+- you are ai
+- you are chatbot
+- are you bot
+- are you a bot ?
+- you're a bot
+- Are you the bot?
+- Hi there, are you the bot?
+- Are you a chat bot?
+- are you Bot bot?
+- Ar you a bot ?
+- are you robot
+- are you real
+- What are you ?
+- So I'm here Today to ask one very simple question, what are you ?
+- are you real lol
+- cuz you are a bot
+- are you bot?
+- oh are you chatbot?
+- are you sure that you're a bot?
+- are you a BOT
+
+## intent:telljoke
+- tell me a joke
+- Say something funny.
+- Give me a joke.
+- Give me a funny joke.
+- What's a good joke?
+- Do you have any jokes?
+- Do you know any jokes?
+- I need a good joke.
+- Tell me the best joke you know.
+- Tell joke.
+- Tell me something funny.
+- Tell me something funny.
+- Share a joke with me!
+- Tell me something humorous!
+- Will you tell me a joke.
+- Can you tell me a joke.
+- Would you tell me a joke
+- Please tell me a joke.
+- Could you tell me a joke.
+- Would you share a joke with me.
+- Could you please share a joke with me.
+- Make me laugh.
+- Tell me something funny.
+- Entertain me with a joke.
+- Tell me something that you think will make me laugh.
+- I want to hear something funny.
+- Give me some comic relief.
+- Can you tell a joke?
+- Know any jokes?
+- Come up with a joke you think I'll find funny.
+- Let's hear a joke from you.
+- say a joke that's funny
+- make me laugh with a joke
+- tell me something funny, like a joke
+- say a joke
+- tell me a short joke
+- tell me a story joke
+- say a funny joke
+- say a joke that's so bad it's funny
+- make me laugh with a bad joke
+- give me a good joke
+- you can say a jok
+
+## intent:ask_whoami
+- Who am I?
+- Okay who am I?
+- WHo am I
+- Tell me who am I?
+- Tell me who I am?
+- Do you know who I am?
+- Can you tell me who I am?
+- How do I discover who I am?
+- How can I determine who I am?
+- Do you know who am I?
+- Can you tell me who am I?
+- How do I discover who am I?
+- How can I determine who am I?
+- who are I ?
+- who may i ?
+- Shall i know who am i?
+- Tell me who I am.
+- How do I identify myself?
+- Who could I be?
+- tell me who I am?
+- what's my identity?
+- tell me what my identity is?
+- can you tell me what I am?
+- can you tell me what my identity is?
+- can you tell me who I am?
+- who am i
+
+## intent:ask_whatismyname
+- what is my name?
+- May i know my name?
+- What is my name?
+- What do I call myself?
+- Tell me my name.
+- Explain my name to me.
+- What could be my name?
+- What name do I go by?
+- What name should I recognize for myself?
+- what's my name?
+- can you tell me my name?
+- What is my name?
+- Do I have a name?
+- Do I have a name? What is it?
+- What was I named?
+- Say my name.
+- Do you know my name?
+- What do people call me?
+- Can you tell me my name?
+- What else do people call me?
+- I have a name, what is it?
+- Tell me my name
+- I'd like to know my name
+- Inform me what my name is
+- Please let me know what my name is
+- Can you tell me what I am called?
+- I'd like to know what my name is
+- What is the name I was given?
+- What does everyone call me?
+- What am I called?
+- What did my parents name me?
+- What do my colleagues call me?
+- What would be the name on my tombstone?
+- Do you know what my name is?
+- What is my first name?
+- What is my full name?
+- What do people call me?
+- What exactly is my name?
+
+## intent:nicetomeeyou
+- Good to meet you!
+- Glad to meet you!
+- Pleased to meet you!
+- Glad we've met.
+- It's nice to finally meet you.
+- Great to meet you!
+- Pleased to make your acquaintance!
+- Nice to have met you.
+- I am glad I met you.
+- I am glad he introduced us.
+- It's great to make your acquaintance!
+- It's a pleasure to meet you!
+- I'm pleased to meet you!
+- It's great to get to know you!
+- I'm glad to meet you!
+- It's wonderful to meet you!
+- I'm thrilled to meet you!
+- I'm glad to have met you!
+- I'm happy that we have met!
+- It's a pleasure to make your acquaintance!
+- Glad to meet you
+- It’s great connecting with you.
+- Pleased to meet you.
+- Lovely to meet you.
+- Delighted to make your acquaintance.
+- It’s a pleasure to meet you
+- It was nice to have met you
+- Great seeing you
+- Great interacting with you
+- I had a great meeting with you
+- Hi, nice to meet you!
+- Great to meet you.
+- Glad to finally meet you!
+- Hi, glad to meet you.
+- Glad to make your acquaintance.
+- Good to see you!
+- Glad to meet you.
+- Happy to get to see you.
+- See you around. It was a pleasure meeting you.
+- It was a pleasure to have your company.
+- Thank you for this meeting. It was great to see you.
+- Feels great to see you!
+- I'm so happy that I could meet you.
+- It's good that I could meet you. It was a pleasure.
+- It is indeed a pleasure to be able to meet you.
+- nice to meet you
+
+## intent:ask_languagesbot
+- What languages can you use?
+- Which languages do you speak?
+- What are the languages you can speak?
+- In which languages can you speak?
+- What languages do you know?
+- What languages are you fluent in?
+- In which languages are you fluent?
+- What languages can you converse in?
+- What languages do you know how to use?
+- Which languages are you familiar with?
+- What languages can you use?
+- what languages are you familiar with?
+- what languages you know?
+- In what languages are you fluent enough?
+- what languages you can speak ?
+- what languages are you comfortable speaking at?
+- what languages are you good at speaking?
+- what languages you are well versed ?
+- what languages you can be comfortable speaking?
+- what languages you prefer more speaking at?
+- what languages you can handle well?
+- Do you know any other languages?
+- Do you speak any other languages?
+- What languages do you know?
+- What languages do you speak?
+- What do you speak?
+- Speak any other languages?
+- Can you communicate in any other languages?
+- What languages can you communicate in?
+- How many languages do you know?
+- what languages do you know?
+- tell me some languages you know?
+- do you speak any other languages?
+- what else do you know besides English?
+- are you bilingual?
+- are you multilingual?
+- what foreign languages do you know?
+- what foreign languages are you fluent in?
+- how many languages are you fluent in?
+- how many languages do you know?
+- How many languages do you know?
+- How many languages can you speak?
+- What languages are you fluent in?
+- How many different languages are you fluent in?
+- How many languages do you have knowledge of?
+- What are all of the different languages you can speak?
+- Are you familiar with more than one language?
+- Can you speak more than one language?
+- Do you know other languages?
+- How many languages are you familiar with?
+- can you speak in italian?
+- do you speak urdu?
+- Do you speak urdu?
+
+## intent:chitchat
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+
+## intent:stop
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
