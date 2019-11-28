@@ -17,7 +17,7 @@
 - I would like to make a transfer
 - I want to transfer money
 
-# intent:show_accounts <!--The user would like check their accounts.-->
+# intent:show_accounts <!--The user would like to check their accounts.-->
  
  - please list my accounts
  - please show my accounts
