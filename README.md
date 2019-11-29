@@ -21,7 +21,7 @@ Each folder should contain a list of multiple intents, consider if the set of tr
 
 2. Create a new file with a folder title and a `NLU.md` file, or contribute to an existing folder.  
 
-3. In the `NLU.md` file, format your training data using markdown, remove all entities (see [script](https://github.com/RasaHQ/NLU-training-data/blob/master/entity-removal-script)), title each section with the intent types and add a short description e.g.`intent:inform_rain <!--The user says that it is currently raining somewhere.-->` 
+3. In the `NLU.md` file, format your training data using markdown, remove all entities (see [script](https://github.com/RasaHQ/NLU-training-data/tree/master/how-to-remove-entities)), title each section with the intent types and add a short description e.g.`intent:inform_rain <!--The user says that it is currently raining somewhere.-->` 
 
 4. Update the `README.md` file, include a list of the intent types added. 
 

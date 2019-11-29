@@ -6,6 +6,7 @@
 - heya
 - hihi
 - sup
+- what's up
 
 ## intent:goodbyes 
 - goodbye
