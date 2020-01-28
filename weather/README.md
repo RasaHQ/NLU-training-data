@@ -1,13 +1,11 @@
 # Training data for intent: weather
-
-This category is for intents that relate to weather such as temperature, weather forecast, location etc.
+This category is for intents that relate to weather such as temperature, weather forecast, location, etc.
 
 ## List of intents in this category:
 
-* weather_type
+* type_weather
 
-* temperature
+* temperature_weather
 
-* ask_weather_forecast
+* ask_forecast_weather
 
- 

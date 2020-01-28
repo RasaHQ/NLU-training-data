@@ -9,6 +9,7 @@
 - good morning
 - good evening
 - hey there
+- what's up
 
 ## intent:goodbyes 
 - goodbye
