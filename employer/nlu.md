@@ -1,79 +1,87 @@
 # NLU Data training file
 
-## intent:greet
-
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- good night
-- happy morning
-- hey there
-- hi there
-
-## intent:goodbye
-
-- bye
-- goodbye
-- good bye
-- see you soon
-- see you around
-- see you later
-
-## intent:asked_thankyou
-
-- thank you for your services
-- thanks for the help
-- thank you you very helpful
-- your service were helpful
-- thank you
-- thanks
-- your are soo good
-- kind and helpful to me
-
 <!-- process cancellation intent and entities -->
-## intent:user_asked_cancel_process
 
-- i no longer want to continue
-- i don't want to do this process
-- i do not wanted to do this
-- can you please stop this process
-- i can't give any more information
-- i dont want to share my information
-- please cancel this process
-- remove this signup
-- i dont want to signup
+## intent:confirmation.yes
 
-## intent:confirm_yes
+- yeah exactly
+- okay that's fine
+- I agree
+- agreed
+- that is ok
+- I guess
+- okey
+- ya
+- ok yes
+- yes it is
+- yep
+- yew
+- yeah 
+- yeah fine
+- yea fine
+- yep okay
+- fine okay
+- yup
+- YEAH
+- okay buddy
+- oh okay
+- yeah sure
+- okay cool
+- coool
 
-- yes, i want to continue
-- ok continue
-- ofcourse proceed
-- done
-- good to go
-- accept this action
-- that's nice
-- yes
-- affirm
+## intent:confirmation.no
 
-## intent:confirm_no
+- don't
+- don't want
+- need not
+- don't come 
+- never help
+- never
+- not needed
+- of course not
+- never
+- not at this time
+- not exactly
+- absolutely no
+- no forget
+- do not
+- no thanks
+- no don't want
+- sorry no
+- don't want your help
+- I don't you help
+- I don't want your assistance
+- get out goodbye
+- i do not want your help
+- i don't need your help
+- i don't want your help
+- i am not okay with your help
+- don't want
+- do not
+- I don't need anything from you
+- okay keep it in mind
+- nope i dont need your help
+- Don't show off
+- nope
 
-- no, i don't want to continue
-- nope dont do that
-- not nice
-- revert this action
-- decline this action
-- deny and don't proceed
-- deny
-- no
+## intent:confirmation.cancel
 
-## intent:confirm_cancel
-
-- cancel this action
-- not now don't do this
-- later will do
-- cancel
+- nevermind forget about it
+- nothing just forget it
+- no just cancel
+- sorry cancel
+- disregard
+- no cancel cancel
+- forget
+- cancel everything
+- cancel that one
+- i want to cancel
+- cancel it
+- cancelled
+- cancel it now
+- don't want cancel
+- cancel soon
+- shall stand cancelled
 
 ## intent:user_asked_resume_generation
 
@@ -82,34 +90,43 @@
 - generate my resume
 - create my CV
 - prepare me a new CV
+- resume please
 
 <!-- asking user for registration when he/she comes to atcerppu bot -->
+
 ## intent:user_asked_registration
 
 - I want to register a new profile
 - Can I create my own new profile
+- registration
+- create a profile
 
 ## intent:user_asked_recommendations
 
 - fetch my my matching profile
 - list my recommended profiles
+- recommendations
+- recommended profile
+- my matching job list
+- my matching candidate list
+- suitable jobs for me
 
 ## intent:user_asked_search
 
 - i want profiles having 2 years experience as mean stack developer
-- list me profile with 3 years in Nodejs developer and python developer
-- list my few profiles with python and php having 3years experience
-- show profile from chennai having 5 yrs in full stack developer
+- list me profile with 3 years in [Nodejs](skills) developer and [python](skills) developer
+- list my few profiles with [python](skills) and [php](skills) having 3years experience
+- show profile from [chennai](city) having 5 yrs in full stack developer
+- fetch me profile with [Java](skills) and should have 3 years of exp
+- fetch candidate profiles with [php](skills)
+- fetch profiles having 2yrs of experience in [nodejs](skills)
+- load [software developer](role) profiles from [chennai](city)
 
 ## intent:update_company_info_from_ui
 
 - i want to update my company details
 - can i edit my company information
 
-## intent:user_asked_fetch_company_details
-
-- fetch company details
-- load my company informations
 
 ## intent:update_personal_info_from_ui
 
@@ -152,6 +169,10 @@
 - hi bot, i am [kalai selvan palani](username)
 - i am [ameen](username)
 - myself [ameen](username)
+- [Ravi](username)
+- [Ismail](username)
+- [feroz khan](username)
+- [kumaran](username)
 
 ## intent:asked_emailid
 
@@ -160,6 +181,7 @@
 - kalai.selvan@yahoo.com my mail
 - zakir_hussain@mail.in is my primary mail id
 - my primary id is james.jebastin_001@email.com
+- kumaran@mail.com
 
 ## intent:asked_phone_number
 
@@ -169,6 +191,16 @@
 - 9468532154 is my mobile number
 - you can call me at 9874563210
 - you can contact me to 9865472310 number
+- 2332203232
+
+## intent:asked_login_usertype
+
+- I am [jobseeker](login_usertype)
+- I am [employer](login_usertype)
+- I am looking for [jobseeker](login_usertype)
+- I am looking for [employer](login_usertype)
+- [employer](login_usertype)
+- [jobseeker](login_usertype)
 
 ## intent:asked_father_name
 
@@ -189,6 +221,8 @@
 - [ameen](username) is my father
 - [ameen](username) father
 - My father name is [Abba](username)
+- [Noorullah](username)
+- [abdullah](username)
 
 ## intent:asked_mother_name
 
@@ -208,6 +242,8 @@
 - hi bot, my mother [poongudi](username)
 - [haseena](username) is my mother
 - [ameena](username) mother
+- [Zakir](username)
+- [hussain](username)
 
 ## intent:asked_dob
 
@@ -242,6 +278,10 @@
 - [single](marital_status)
 - [married](marital_status)
 - [widow](marital_status)
+- single
+- widow
+- married
+- unmarried
 
 ## intent:asked_gender
 
@@ -277,6 +317,7 @@
 - my PAN number is [BSBPA8426L](pan_num)
 - the PAN number is [BSBAK5544L](pan_num)
 - [BSPB3566S](pan_num) is my PAN number
+- [BSBPB5566L](pan_num)
 
 ## intent:asked_address
 
@@ -288,6 +329,9 @@
 - [#9/8, Some open street](venue), [chennai](city), [india](country)
 - I live in (United States of America)(country)
 - I am in [United Kingdom](country)
+- [Colombia](country)
+- [Sri Lanka](country)
+- [Australia](country)
 
 ## intent:asked_pincode
 
@@ -296,6 +340,8 @@
 - postal code is [600002](pincode)
 - [600690](pincode) is my postal code
 - my postal address is [635023](pincode)
+- [662332](pincode)
+- [695685](pincode)
 
 ## intent:asked_known_languages
 
@@ -306,6 +352,7 @@
 - [malayalam](languages)
 - [english](languages)
 - [japanese](languages)
+- [marathi](languages)
 
 ## intent:user_asked_about
 
@@ -316,12 +363,15 @@
 ## intent:user_asked_technical_skills
 
 - i known [php](skills), [python](skills)
-- hands on experience in [Node.Js](skills)
+- hands on experience in [NodeJs](skills)
 - I can work in [perl](skills)
 - well experience in [nodejs](skills), [ruby](skills) and [javascript](skills)
 - [ionic framework](skills)
 - [Angular](skills)
-- [vue.js](skills), [node.js](skills), [angular](skills) and [php](skills)
+- [vue.js](skills), [nodejs](skills), [angular](skills) and [php](skills)
+- [j2ee](skills)
+- [Silverlight](skills)
+- [Bootstrap](skills)
 
 ## intent:user_asked_notice_period
 
@@ -339,6 +389,8 @@
 - 3.5 lakhs/annum
 - getting 45 thousand per month
 - my current ctc is 50000
+- 500000 lakhs
+- 8k per annum
 
 ## intent:user_asked_company_name
 
@@ -346,6 +398,8 @@
 - i work in [Surprise Solutions Pvt. Limited](company_name)
 - my previous company is [Matrimony.com Ltd.](company_name)
 - Registered company name [Wipro Technology Ltd](company_name)
+- [RR Donnelley](company_name)
+- [RRD Outsourcing India Pvt Ltd](company_name)
 
 ## intent:user_asked_website
 
@@ -353,14 +407,17 @@
 - company website is https://accenture.com
 - website is https://wipro.com
 - site is matrimony.com
+- https://rrd.com
 
 ## intent:user_asked_industry_type
 
 - company idustry is [internet](industry_type)
 - idustry is [Automotor](industry_type)
 - [tele services](industry_type) industry
+- [internet](industry_type)
 
 <!-- academic related intents and entities -->
+
 ## intent:user_asked_academic_info
 
 - I studied my schooling in [Al-Ameen Mat Hr. Sec School](academy_name) with [65%](grade)
@@ -377,6 +434,8 @@
 - i studied in school
 - I want to add my academic details
 - I want to add my education
+- [Girls Hr Sec School](academy_name)
+- [Boys Hr Sec School](academy_name)
 
 ## intent:update_academic_info_from_ui
 
@@ -407,6 +466,7 @@
 - i completed my degree in [Bharathidasan Engg College](academy_name)
 
 <!-- career related intent and entities -->
+
 ## intent:user_asked_career_info
 
 - save my career informations
@@ -436,6 +496,7 @@
 - job full description
 
 <!-- job posting related intents and entities -->
+
 ## intent:user_asked_job_post
 
 - hey i wanna post a job
@@ -450,15 +511,10 @@
 - i want to post a new job from ui
 - can i post a new job from ui
 
-## intent:user_asked_fetch_posted_jobs
-
-- view posted jobs
-- load my posted jobs
-
 ## intent:user_asked_job_title
 
 - Walk-in interview Senior Software engineer
-- Interview Node.Js developer
+- Interview NodeJs developer
 - MEAN stack developer 4+yrs
 - MEAN/Lamp stack developers with 4-5 yrs experience
 
@@ -468,19 +524,29 @@
 - Currently 5 vacancy available
 - need 10 well experience candidates
 - openings for 10 positions
+- 3 positions
+- 2 vacancy
+- 4 vacancies
+- ten posts
 
-## intent:user_asked_job_exp_from
+## intent:user_asked_job_exp_range
 
 - we need eployers having 2 to 4 years of experience
-- I need 1-3 years experience in [Node.js](skills)
+- I need 1-3 years experience in [Nodejs](skills)
 - candidates should have 4-5 years of experience
 - profiles should have 2 to 6 years experience
+- 2 years
+- 5 years of exp
+- 7 year experience
 
 ## intent:user_asked_job_salary_range
 
 - we will provide 5k to 10k per month
 - salary will be 8L to 10L per annum
 - salary range will be 6L to 10Lakhs per annum
+- getting 5 lakhs per annum
+- 8 lakhs per annum
+- 6 Lakhs
 
 ## intent:user_asked_job_type
 
@@ -489,8 +555,11 @@
 - We need [fulltime](job_type) employers
 - currently i work as a [part-time](job_type) employee
 - I serve as [part-time](job_type) worker
+- full time
+- part time
 
 <!-- feedback form related intents and entities -->
+
 ## intent:user_asked_feedback
 
 - i have a feedback
@@ -500,6 +569,7 @@
 - can i register a feedback
 - can i post a issue
 - i want to send a feedback
+- send feedback
 
 ## intent:user_asked_feedback_title
 
@@ -511,7 +581,16 @@
 - there is an issue when i update my personal information. it doesnt parse everything
 - If i try to update single skill it gets updated but when trying to update multiple data it refuses, please look into it. thanks
 
+## intent:profiles_knowledge_base
+
+- show me [first](mention:1) [profile](object_type:profiles)
+- view me the [last](mention:LAST) [profile](object_type:profiles)
+- shortlist [this](mention) [profile](object_type:profiles)
+- display the [last](mention:LAST) [profile](object_type:profiles)
+- the [last](mention:LAST) one
+
 <!-- Synonyms for entities -->
+
 ## synonym:male
 
 - groom
@@ -537,9 +616,10 @@
 - can't hear
 
 <!-- regular expression based entities extraction -->
+
 ## regex:username
 
-- ([a-zA-Z]+(?:\.*\s*)){1,4}
+- [a-zA-Z]+
 
 ## regex:pincode
 
@@ -562,29 +642,47 @@
 - [0-9a-zA-Z]{12,12}
 
 <!-- Lookup table mapping for entities -->
+
 ## lookup:marital_status
 
-    - single
-    - married
-    - divorced
-    - widow
+api/const/entities/marital_status.txt
 
 ## lookup:physical_status
 
-    - normal
-    - blind
-    - deaf
-    - dump
-    - physically challenged
+api/const/entities/physical_status.txt
 
 ## lookup:job_type
 
-    - fulltime
-    - part-time
-    - freelance
-    - contract
+api/const/entities/job_type.txt
 
 ## lookup:gender
 
-    - male
-    - female
+api/const/entities/gender.txt
+
+## lookup:languages
+
+api/const/entities/languages.txt
+
+## lookup:degree
+
+api/const/entities/degree.txt
+
+## lookup:country
+
+api/const/entities/country.txt
+
+## lookup:role
+
+api/const/entities/roles.txt
+
+## lookup:skills
+
+api/const/entities/skills.txt
+
+## lookup:city
+
+api/const/entities/locations.txt
+
+## lookup:industry
+
+api/const/entities/industries.txt
