@@ -27,7 +27,7 @@ Each folder should contain a list of multiple intents, consider if the set of tr
 
 5. Create a pull request describing your changes. 
 
-Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a Contributor License Agreement.
+Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions. You will also be asked to sign a [Contributor License Agreement](https://cla-assistant.io/RasaHQ/rasa).
 
 ## FAQs
 
