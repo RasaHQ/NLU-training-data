@@ -50,7 +50,7 @@ However, we understand that the Rasa community is a global one, and in the long-
 
 ### Why do I need to remove entities from my training data? 
 
-We would like to make the training data as easy as possible to adopt to new training models and annotating entities highly dependant on your bot’s purpose. Therefore, we will first focus on collecting training data that only includes intents.
+We would like to make the training data as easy as possible to adopt to new training models and annotating entities highly dependent on your bot’s purpose. Therefore, we will first focus on collecting training data that only includes intents.
 
 To help you remove the annotated entities from your training data, you can run [this script](https://github.com/RasaHQ/NLU-training-data/blob/master/entity-removal-script). 
 
