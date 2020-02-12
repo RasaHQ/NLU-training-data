@@ -6,7 +6,7 @@ We would like to make the training data as easy as possible to adopt to new trai
 
 1. Make sure your training data is backed up! 
 
-2. Open the command line, and use [this simple Python script](https://github.com/RasaHQ/NLU-training-data/blob/master/how-to-remove-entities/entity-remove-script) that replaces all the entity annotations with the plain text.
+2. Open the command line, and use [this simple Python script](https://github.com/RasaHQ/NLU-training-data/blob/master/how-to-remove-entities/entity-remove-script.py) that replaces all the entity annotations with the plain text.
 
 3. Prepare to donate your training data by following these [guidelines.](https://github.com/RasaHQ/NLU-training-data#how-do-i-donate-my-training-data) 
 
