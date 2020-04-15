@@ -7,6 +7,9 @@
 - hihi
 - sup
 - what's up
+- hey there
+- hello buddy
+- wazzup
 
 ## intent:goodbyes 
 - goodbye
