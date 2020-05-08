@@ -8,3 +8,5 @@ This category is for generic small talk intents that you would use for any assis
 * goodbye
 
 * affirm
+
+* bot_challenge
