@@ -10,6 +10,7 @@
 - hey there
 - hello buddy
 - wazzup
+- yo
 
 ## intent:goodbyes 
 - goodbye
