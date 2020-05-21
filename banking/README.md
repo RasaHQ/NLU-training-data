@@ -8,3 +8,5 @@ This category is for intents that can be used to train bots for personal and bus
  * transfer_money
 
  * show_accounts
+
+ * show_statement
