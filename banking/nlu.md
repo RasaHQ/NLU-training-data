@@ -30,4 +30,12 @@
  - please list my credit cards
  - show me my credit cards details
  - what is my credit cards outstanding
+
+# intent:show_statement <!--The user would like to see to see a log of their bank statement.-->
+
+ - Please show me my bank statement
+ - I would like to see my bank statement
+ - Show me my all my transactions
+ - Give me a list of my statement history
+ - Can you provide me my bank statement?
  
