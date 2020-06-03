@@ -7,7 +7,4 @@
 
 List of intents in this category:
 
-* show my order
-* Delivery status
-* show me products
-* offer & promotions
+* show_my_order_status
