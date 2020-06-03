@@ -8,6 +8,6 @@
 List of intents in this category:
 
 * show my order
-* Deleivry status
+* Delivery status
 * show me products
 * offer & promotions
