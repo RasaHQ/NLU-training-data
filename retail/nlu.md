@@ -2,4 +2,4 @@
 
 - I would like to know my order status
 - Where is my order
-- When I will get the deilvery
+- When I will get the delivery
