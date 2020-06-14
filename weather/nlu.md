@@ -6,6 +6,7 @@
 - blizzard
 - breath of air
 - breeze
+- breezy
 - bright
 - chilly
 - clear
@@ -17,12 +18,16 @@
 - cool
 - damp
 - dark
+- dark clouds
 - dense clouds
 - dew
+- downpour
 - drizzle
 - dry
 - dull
 - dust storm
+- flooded
+- flooded roads
 - fog
 - foggy
 - forecast
@@ -33,13 +38,15 @@
 - frosty
 - gale
 - gust of wind
+- gusty
 - hail
 - hailstone
 - hailstorm
 - hazy
 - heat
-- heat waveа
+- heat wave
 - heavy grey clouds
+- heavy winds
 - hot
 - humid
 - humidity
@@ -52,6 +59,7 @@
 - mist
 - misty
 - moderate wind
+- monsoon
 - moon
 - muggy
 - overcast
@@ -59,10 +67,12 @@
 - pressure
 - puff of wind
 - rain
+- rain showers
 - raindrop
 - rainfall
 - raining
 - rainy
+- sandstorms
 - scattered showers
 - shine
 - shower
@@ -91,12 +101,14 @@
 - sunshine
 - thunder
 - thunder-cloud
+- thundershowers
 - thunderstorm
 - thunderstorms
 - to pour
 - tornado
 - tornadoes
 - twister
+- typhoon
 - very strong wind
 - warm
 - weather
@@ -120,6 +132,7 @@
 - degrees centigrade
 - degrees Fahrenheit
 - humidity
+- mercury
 - pressure
 - synoptic
 - temperature
@@ -130,15 +143,26 @@
 - weather forecast
 - weather station
 - weatherman
+- wind chill
+- windchill 
 
 ## intent:ask_forecast_weather <!--The user ask for the current weather forecast.-->
 
 - Anybody notice the weather today?
+- Are the roads flooded today?
 - Awful weather, isn’t it?
 - Do you know the weather forecast for today?
-- Do you know the weather forecast for today?
+- Do I need to carry an umbrella today?
+- Do I need to carry an umbrella tomorrow?
 - How is the weather today?
-- How’s the weather?
+- How cold is it going to get today?
+- How cold is it going to be tomorrow?
+- How hot is it going to get today?
+- How hot is it going to be tomorrow?
+- How humid is it going to get today?
+- How humid is it going to be tomorrow?
+- How rainy is it going to be today?
+- How rainy is it going to be tomorrow?
 - How’s the weather?
 - How's the weather out in the country today?
 - I wonder if there will be a storm?
@@ -150,6 +174,7 @@
 - Is it windy out?
 - It is so cloudy today, isn’t it?
 - It is so sunny today, isn’t it?
+- Is there much flooding on the roads today?
 - Lovely day, huh?
 - Nice weather today, isn’t it?
 - So, what will the weather be like today?
@@ -157,6 +182,7 @@
 - Terrible weather, isn’t it?
 - The forecast?
 - What do you think the weather looks like?
+- What is the humidity level right now?
 - What is the temperature outside?
 - What is the temperature?
 - What is the weather expected to be like?
@@ -166,6 +192,7 @@
 - What temperature do you think it is?
 - What’s it like out there?
 - What’s it like out?
+- What's the humidity level right now?
 - What’s the temperature like out there?
 - What’s the temperature like?
 - What’s the temperature today?
