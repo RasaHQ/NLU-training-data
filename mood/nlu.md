@@ -43,6 +43,9 @@
 - I am anxious
 - I feel anxious
 - This is nerveracking
+- This is nervewracking 
+- This is nerve racking 
+- This is nerve wracking 
 - I feel like I am going to throw up
 - I have a lump in my throat
 - I have butterflies in my stomach
