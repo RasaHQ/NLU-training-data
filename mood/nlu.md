@@ -35,4 +35,48 @@
 - This feels bad
 - I feel low
 - Everything is bad today
- 
+
+## intent:mood_angry
+- I am angry
+- I am feeling so angry
+- I am so annoyed
+- It's annoying
+- That's aggravating
+- I'm furious
+- That is infuriating 
+- I'm very mad
+- Everything vexes me
+- I am outraged
+- That is outrageous!
+- I feel hostile
+- I am very frustrated
+- It is irritating me
+- I feel so offended
+- I am full of fury
+- I feel very belligerent
+- I hate doing this
+- I have no patience today
+- I could not control my anger
+
+## intent:mood_scared
+- I am scared
+- I feel scared
+- I'm worried
+- I am terrified
+- That is frightening
+- I feel intimidated
+- That is intimidating
+- I am petrified
+- I am afraid
+- I feel anxious
+- I'm having a bad feeling
+- I'm fearful
+- I panicked
+- I shrank back in fear
+- I am scared to death
+- I broke out in a cold sweat
+- That startled me!
+- I'm spooked easily
+- I'm trembling from fear
+- I'm horrified
+
