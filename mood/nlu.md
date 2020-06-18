@@ -35,4 +35,29 @@
 - This feels bad
 - I feel low
 - Everything is bad today
- 
+
+## intent:mood_nervous
+- I am nervous
+- I am stressed out
+- I feel nervous
+- I am anxious
+- I feel anxious
+- This is nerveracking
+- This is nervewracking 
+- This is nerve racking 
+- This is nerve wracking 
+- I feel like I am going to throw up
+- I have a lump in my throat
+- I have butterflies in my stomach
+- I am a bundle of nerves
+- I am breaking out in a cold sweat
+- I am afraid of my own shadow
+- I am like a cat on hot bricks
+- I am jumping out of my skin
+- I am at my wits' end
+- I am tongue tied
+- I am on edge
+- I am very tense
+- I feel uneasy
+- I am alarmed
+- I am troubled 
