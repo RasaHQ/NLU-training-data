@@ -10,3 +10,6 @@ This category is for intents that convey mood such as happy, unhappy, excited, f
 * mood_angry
 
 * mood_scared
+
+* mood_nervous
+
