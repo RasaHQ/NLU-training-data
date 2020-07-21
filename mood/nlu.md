@@ -15,6 +15,9 @@
 - Never better
 - Feeling lucky
 - All great here
+- Fantastic day
+- What a great day
+- I'm inspired
 
 ## intent:mood_unhappy
 - I am sad
@@ -35,6 +38,8 @@
 - This feels bad
 - I feel low
 - Everything is bad today
+- I feel very sad
+- Feels horrible
 
 ## intent:mood_nervous
 - I am nervous
