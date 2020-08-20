@@ -5,7 +5,6 @@
 - I had a great day
 - Me, wonderful!
 - I am amazed
-- This is sick!
 - You are too cool
 - I am loving it
 - I am starting to like this 
