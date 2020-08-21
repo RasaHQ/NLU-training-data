@@ -34,6 +34,17 @@
 - This feels bad
 - I feel low
 - Everything is bad today
+- This is depressing
+- I am depressed
+- I feel bored
+- I am feeling bored
+- life is boring
+- I am feeling empty
+- I feel useless
+- aweful
+- depressed
+- heavy
+- I am feeling quite lost
 
 ## intent:mood_angry
 - I am angry
