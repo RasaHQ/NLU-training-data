@@ -21,6 +21,8 @@
 - I like to drive fast and I'd like to buy a coupè, please
 - I prefer a sedan, please
 - I live in a countryside and a pickup is the right choice for me, please
+- I'd like a electric car, please
+- I prefer a hybrid, please
 
 ## intent:choose_nationality_car <!--The user explains a preference on nationality of the car he would like to buy-->
 - I would an european car, please
