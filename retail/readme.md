@@ -8,3 +8,7 @@
 List of intents in this category:
 
 * show_my_order_status
+
+* finish_and_pay_retail
+
+* need_more_time_retail

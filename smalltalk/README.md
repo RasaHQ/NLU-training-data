@@ -3,10 +3,12 @@ This category is for generic small talk intents that you would use for any assis
 
 ## List of intents in this category:
 
-* greet
+* greet_smalltalk
 
-* goodbye
+* goodbye_smalltalk
 
-* affirm
+* affirm_smalltalk
 
-* bot_challenge
+* deny_smalltalk
+
+* bot_challenge_smalltalk
