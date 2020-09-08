@@ -1,4 +1,4 @@
-## intent:locate_restaurant <!--The user would like to go to which restaurant>
+## intent:locate_restaurant
 - suggest me the closest restaurant
 - restaurants near me
 - locate a restaurant near me
@@ -12,7 +12,7 @@
 - restaurants in mumbai
 - best restaurants in delhi
 
-## intent:restaurant_type <!--What type of restaurant user want to visit>
+## intent:restaurant_type
 - I would like to visit an italian restaurant
 - A family restaurant
 - mexican
@@ -27,7 +27,7 @@
 - restaurant with great ambience
 - highest rated restaurant
 
-## intent:table_reservation <!--User would tell the capacity for the table or the location in the restaurant>
+## intent:table_reservation
 - Book a table for two people
 - Book a table for 2 people
 - table for 10 persons
@@ -39,7 +39,7 @@
 - table with high chairs
 - table in the corner
 
-## intent:restaurant_review <!-- User reviews the restaurant>
+## intent:restaurant_review
 - restaurant was awesome
 - food was great
 - ambience was amazing
