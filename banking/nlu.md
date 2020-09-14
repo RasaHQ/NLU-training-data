@@ -249,8 +249,6 @@
 -  UAE Dirham
 -  UIC-Franc
 -  US Dollar
--  US Dollar (Next day)
--  US Dollar (Same day)
 -  Uganda Shilling
 -  Unidad Previsional
 -  Unidad de Fomento
@@ -262,7 +260,6 @@
 -  Vatu
 -  WIR Euro
 -  WIR Franc
--  WIR Franc (for electronic)
 -  Won
 -  Yemeni Dinar
 -  Yemeni Rial
@@ -272,8 +269,6 @@
 -  Zaire
 -  Zambian Kwacha
 -  Zimbabwe Dollar
--  Zimbabwe Dollar (new)
--  Zimbabwe Dollar (old)
 -  Zloty
 
 # intent:transfer_money <!--The user would like to transfer money.-->
