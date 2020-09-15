@@ -307,5 +307,5 @@
  - Please show my bank entries.
  - Please show my debits and credits.
  - Can I have a look at my reciepts and payments?
- Can I see my inflows and outflows?
+ - Can I see my inflows and outflows?
  
