@@ -11,6 +11,11 @@
 - South Korean Won
 - Swiss Franc
 - United States Dollar
+- Pound Sterling
+- Canadian Dollar
+- Hong Kong Dollar
+- Swedish Krona
+- Singapore Dollar
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
