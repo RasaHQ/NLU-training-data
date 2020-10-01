@@ -21,13 +21,21 @@
 
 - I would like to make a transfer
 - I want to transfer money
+- I want to pay money
+- I want to pay someone
+- Can I transfer money?
+- pay my bills
+- tranfer money to Alex
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
  
  - please list my accounts
  - please show my accounts
  - please get all my accounts
- - show me my accounts details 
+ - show me my accounts details
+ - information about account
+ - info on account
+ - show the details of my account 
 
 # intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
