@@ -32,7 +32,7 @@
 - Make a transfer
 - I want to send money
 - I want to make a transfer
-- I need to send money 
+- I need to send money
 - I need to transfer
 - I need to make an account transfer
 - I want to send money
@@ -44,6 +44,24 @@
  - please show my accounts
  - please get all my accounts
  - show me my accounts details
+ - Display My Accounts
+ - Show accounts
+ - List my accounts
+ - List my account
+ - Can I check my account number
+ - can I have a look at my accounts
+ - Show my account details
+ - My accounts
+ - I’d like to see all my accounts
+ - Can I view my accounts
+ - Make a list of my accounts
+ - show my account numbers
+ - I want to see my accounts
+ - I would like to see all my accounts
+ - Display my bank account
+ - Overview of Accounts
+ - Show all my accounts
+
 
 # intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
