@@ -11,6 +11,8 @@
 - South Korean Won
 - Swiss Franc
 - United States Dollar
+- Angolan Kwanza
+- philippine peso
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
@@ -69,6 +71,24 @@
  - please list my credit cards
  - show me my credit cards details
  - what is my credit cards outstanding
+ - Display My Cards
+ - List my credit cards
+ - i need to see my credit cards
+ - Can I have access to a credit cards
+ - My credit cards
+ - I want to see my credit card details
+ - I’d like my credit cards displayed
+ - Can I see all my credit cards
+ - Show my cards
+ - Display Credit Cards
+ - Show Credit Cards
+ - Could you show me my credit cards
+ - I would like to see my credit cards
+ - Credit cards information
+ - Display my credit cards
+ - Credit Card Overvuew
+ - Show all my credit cards
+ - show my credit cards 
 
 # intent:show_statement <!--The user would like to see to see a log of their bank statement.-->
 
