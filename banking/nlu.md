@@ -1,8 +1,8 @@
 # intent:currency <!--currency type.-->
- 
+
 - Australian dollar
 - Bangladeshi Taka
-- Chinese Yuan 
+- Chinese Yuan
 - Danish Krone
 - Euro
 - Indian Rupee
@@ -16,13 +16,34 @@
 
 - I would like to make a transfer
 - I want to transfer money
+- I need to transfer money
+- Money transfer
+- I need to make a transference
+- I need to make a transfer
+- i need to send money
+- I would like to transfer money
+- I need to make a money transfer
+- I need to send money
+- I’d like to make a transfer
+- I’d like to send money
+- I would like to wire some money
+- I want to make a transfer
+- I need to go to the bank to make a transfer
+- Make a transfer
+- I want to send money
+- I want to make a transfer
+- I need to send money 
+- I need to transfer
+- I need to make an account transfer
+- I want to send money
+
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
- 
+
  - please list my accounts
  - please show my accounts
  - please get all my accounts
- - show me my accounts details 
+ - show me my accounts details
 
 # intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
@@ -38,4 +59,3 @@
  - Show me my all my transactions
  - Give me a list of my statement history
  - Can you provide me my bank statement?
- 
