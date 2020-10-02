@@ -88,7 +88,7 @@
  - Display my credit cards
  - Credit Card Overvuew
  - Show all my credit cards
- - show my credit cards 
+ - show my credit cards
 
 # intent:show_statement <!--The user would like to see to see a log of their bank statement.-->
 
@@ -97,3 +97,21 @@
  - Show me my all my transactions
  - Give me a list of my statement history
  - Can you provide me my bank statement?
+ - Extract Statements
+ - Print statements
+ - i want to see my statements
+ - Can I have a look at my statement please
+ - Display my statements
+ - My statement
+ - I’d like to see my statement
+ - I want to see my statement
+ - Please extract statement of my movements
+ - Make a statement
+ - Display Statements
+ - Show statements
+ - Show account movements
+ - Could you show me my statements
+ - I would like to see my statements
+ - Show my statements
+ - Account Transaction overview
+ - Show my account statements
