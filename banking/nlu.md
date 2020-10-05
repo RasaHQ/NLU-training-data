@@ -24,7 +24,6 @@
 - I want to pay money
 - I want to pay someone
 - Can I transfer money?
-- pay my bills
 - tranfer money to Alex
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
