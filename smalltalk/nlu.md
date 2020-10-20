@@ -1,4 +1,4 @@
-## intent:greet
+## intent:greet_smalltalk
 - hi
 - hello
 - howdy
@@ -12,14 +12,15 @@
 - wazzup
 - yo
 
-## intent:goodbyes 
+## intent:goodbyes_smalltalk
 - goodbye
 - bye
 - see you later
+- talk to you later
 - cya
 - ciao
 
-## intent:affirm
+## intent:affirm_smalltalk
 - yes
 - yep
 - yeah 
@@ -28,8 +29,20 @@
 - ok
 - great
 - correct
+- perfect
+- sounds good
+- sounds great
 
-# intent:bot_challenge
+## intent:deny_smalltalk
+- no
+- nope
+- no way
+- not true
+- no thanks
+- nah
+- never
+
+# intent:bot_challenge_smalltalk
 
 - are you a bot?
 - are you a human?
