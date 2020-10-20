@@ -306,6 +306,9 @@
  - I want to do fund transfer.
  - I want to transfer funds.
  - I want to pay money.
+ - I would like to make a payment
+ - I want to do money transaction
+ - I want to transfer some amount to someone
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
  
@@ -319,6 +322,10 @@
  - show me my accounts details 
  - please show my account summary
  - please show my account balance 
+ - List out all my accounts
+ - Fetch my accounts details
+ - get me my accounts information
+ - Please retrieve my accounts information
 
 # intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
@@ -327,6 +334,9 @@
  - show me my credit cards details
  - what is my credit cards outstanding
  - what all credit cards do I have?
+ - List out all my credit cards
+ - I want to see list of all my credit cards
+ - I would like to see information of all my credit cards 
 
 
 # intent:show_statement <!--The user would like to see to see a log of their bank statement.-->
@@ -340,4 +350,6 @@
  - Please show my debits and credits.
  - Can I have a look at my reciepts and payments?
  - Can I see my inflows and outflows?
- 
+ - Please show me my transaction history
+ - Please retieve my transaction log
+ - I would like to see my bank account statement history
