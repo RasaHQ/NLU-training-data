@@ -309,6 +309,20 @@
  - I would like to make a payment
  - I want to do money transaction
  - I want to transfer some amount to someone
+ - I'd like to transfer sixty dollars from my checking account
+ - I want to wire two hundred dollars from my checking account
+ - I want to make a transfer of one hundred fifty dollars to my savings account
+ - Can I please transfer some money between my accounts
+ - I just want to send a hundred dollars to my savings
+ - I want to make a wire transfer
+ - Is it possible to transfer money online
+ - Are online transfers available
+ - How can I transfer money 
+ - What do I need to do to transfer some money between my accounts
+ - I want to transfer money to my wife's account
+ - I want to make a transfer today
+ - Make a transfer
+ - Transfer money
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
  
@@ -353,3 +367,65 @@
  - Please show me my transaction history
  - Please retieve my transaction log
  - I would like to see my bank account statement history
+
+
+# intent:interest_rate <!--The user would like to get some information on interest rates.-->
+
+ - yeah hi what is the current interest rate for loans
+ - what's the interest rate for a 30 year mortgage
+ - what's the availavble interest rate for mortgages today
+ - what's the interest rate for your golden credit cards 
+ - what's the interest rate for your credit card
+ - What's the best interest rate I can get within your bank
+ - I need to borrow some money so I want to know the interest rates
+ - What are the interest rates if I ask for one hundred thousand
+
+# intent:lost_card <!--The user lost his/her card-->
+
+ - i've lost my card 
+ - I don't know where my card is
+ - I have no idea where've left my card
+ - I left my card somewhere and now I need to cancel it
+ - I really don't remember where my card is
+ - I'm afraid I don't know where my card is
+ - I've lost my credit card and I don't think I will find it again
+ - My card is gone I must have left it somewhere
+ - I'm afraid someone took my card so I'd better cancel it
+ - I have no clue where is my card 
+ - Can't find my card don't know what to do
+ - Can't find my card what should I do
+
+# intent:change_pin <!--The user wants to change his/her pin code-->
+ - I don't remember my pin and need to change it
+ - I want to change my pin because I can't remember it.
+ - How can I change my pin over the phone
+ - Is it possible to change my card's pin online
+ - Could you help me resetting my pin
+ - Can I get a new pin number for my card
+ - What do I need to do to get a new pin number
+ - How can I restore the secret code of my card
+ - I lost my card's secret number now I can't use it anymore
+ - Where can I find my card's pin
+ - Where can I find my card's secret code
+ - I think someone discovered my pin and I want to change it 
+ - I want to change the secret digits to access my credit card.
+
+# intent:retirement_plan <!--The user would like to get more information on retirement plans-->
+
+ - I want to apply to a retirement savings plan
+ - What are the available plans for retirement in your bank 
+ - what's the best RSP available in your products
+ - Do you offer retirement savings plans
+ - I want to invest some money for my retirement
+
+# intent:online_banking <!--The user would like to get more information on online banking -->
+
+ - I want to get access to online banking
+ - What can I do in the online banking
+ - How can I benefit from your online banking
+ - Do you have a mobile app for online banking 
+ - Can I make transfer online
+ - Can I check my balance online
+ - I want to get a password for online banking
+ - What are the things I can do online and not over the phone
+ - Are there things that I can only do online? 
