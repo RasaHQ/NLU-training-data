@@ -11,6 +11,8 @@
 - suggest me a restaurant in rome
 - restaurants in mumbai
 - best restaurants in delhi
+- good restaurant downtown
+- great restaurant uptown
 
 ## intent:restaurant_type
 - I would like to visit an italian restaurant
@@ -26,6 +28,9 @@
 - kid-friendly restaurant
 - restaurant with great ambience
 - highest rated restaurant
+- dinning with a view
+- restaurant on a terrace
+- fusion restaurant
 
 ## intent:table_reservation
 - Book a table for two people
@@ -38,6 +43,7 @@
 - couple
 - table with high chairs
 - table in the corner
+- table with a booth
 
 ## intent:restaurant_review
 - restaurant was awesome
@@ -48,4 +54,8 @@
 - give a 3.5 star
 - average
 - worst experience
+- food was good was service wasnt
+- the waiter was rude
+- the meal was delicious
+- food was exquisite
 
