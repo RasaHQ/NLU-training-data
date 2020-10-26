@@ -1,31 +1,3 @@
-# intent:currency <!--currency type.-->
- 
-- Australian dollar
-- Bangladeshi Taka
-- Chinese Yuan 
-- Danish Krone
-- Euro
-- Indian Rupee
-- Japanese Yen
-- Renminbi
-- South Korean Won
-- Swiss Franc
-- United States Dollar
-- Pound Sterling
-- Canadian Dollar
-- Hong Kong Dollar
-- Swedish Krona
-- Singapore Dollar
-
-# intent:transfer_money <!--The user would like to transfer money.-->
-
-- I would like to make a transfer
-- I want to transfer money
-- I want to pay money
-- I want to pay someone
-- Can I transfer money?
-- tranfer money to Alex
-
 # intent:currency <!--Global Currencies-->
 
  - Afghani
@@ -42,6 +14,7 @@
  - Bahraini Dinar
  - Baht
  - Balboa
+ - Bangladeshi Taka
  - Barbados Dollar
  - Belarusian Ruble
  - Belgian Franc
@@ -64,6 +37,7 @@
  - Cayman Islands Dollar
  - Cedi
  - Chilean Peso
+ - Chinese Yuan
  - Colombian Peso
  - Comorian Franc
  - Congolese Franc
@@ -124,6 +98,7 @@
  - Irish Pound
  - Italian Lira
  - Jamaican Dollar
+ - Japanese Yen
  - Jordanian Dinar
  - Karbovanet
  - Kenyan Shilling
@@ -248,6 +223,7 @@
  - Som
  - Somali Shilling
  - Somoni
+ - South Korean Won
  - South Sudanese Pound
  - Spanish Peseta
  - Sri Lanka Rupee
@@ -282,6 +258,7 @@
  - Unidad de Fomento
  - Unidad de Valor Constante (UVC)
  - Unidad de Valor Real
+ - United States Dollar
  - Uruguay Peso en Unidades Indexadas (UI)
  - Uruguayan Peso
  - Uzbekistan Sum
@@ -293,6 +270,7 @@
  - Yemeni Rial
  - Yen
  - Yuan Renminbi
+ - Renminbi
  - Yugoslavian Dinar
  - Zaire
  - Zambian Kwacha
@@ -323,6 +301,12 @@
  - I want to make a transfer today
  - Make a transfer
  - Transfer money
+ - I would like to make a transfer
+ - I want to transfer money
+ - I want to pay money
+ - I want to pay someone
+ - Can I transfer money?
+ - Transfer money to Alex
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
  

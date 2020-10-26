@@ -10,3 +10,13 @@ This category is for intents that can be used to train bots for personal and bus
  * show_accounts
 
  * show_statement
+
+ * interest_rate
+
+ * lost_card
+
+ * change_pin
+
+ * retirement_plan
+
+ * online_banking
