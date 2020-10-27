@@ -379,7 +379,7 @@
  - Can't find my card don't know what to do
  - Can't find my card what should I do
 
-# intent:change_pin <!--The user wants to change his/her pin code-->
+# intent:change_pin <!--The user wants to change their pin code-->
  - I don't remember my pin and need to change it
  - I want to change my pin because I can't remember it.
  - How can I change my pin over the phone
