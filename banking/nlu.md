@@ -364,7 +364,7 @@
  - I need to borrow some money so I want to know the interest rates
  - What are the interest rates if I ask for one hundred thousand
 
-# intent:lost_card <!--The user lost his/her card-->
+# intent:lost_card <!--The user lost their card-->
 
  - i've lost my card 
  - I don't know where my card is
