@@ -16,6 +16,7 @@
 - Hong Kong Dollar
 - Swedish Krona
 - Singapore Dollar
+- Vietnamese Dong
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
@@ -24,7 +25,7 @@
 - I want to pay money
 - I want to pay someone
 - Can I transfer money?
-- tranfer money to Alex
+- transfer money to Alex
 
 # intent:crypto_currency <!--Crypto Currencies-->
 
@@ -301,6 +302,7 @@
  - Uruguayan Peso
  - Uzbekistan Sum
  - Vatu
+ - Vietnamese Dong (VND)
  - WIR Euro
  - WIR Franc
  - Won
@@ -363,8 +365,8 @@
  - Can you provide me my bank statement?
  - Please show my bank entries.
  - Please show my debits and credits.
- - Can I have a look at my reciepts and payments?
+ - Can I have a look at my receipts and payments?
  - Can I see my inflows and outflows?
  - Please show me my transaction history
- - Please retieve my transaction log
+ - Please retrieve my transaction log
  - I would like to see my bank account statement history
