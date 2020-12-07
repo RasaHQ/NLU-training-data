@@ -26,6 +26,21 @@
 - Can I transfer money?
 - tranfer money to Alex
 
+# intent:crypto_currency <!--Crypto Currencies-->
+
+ - Bitcoin
+ - Ethereum
+ - XRP
+ - Tether
+ - Litecoin
+ - Bitcoin Cash
+ - Chainlink
+ - Cardano
+ - Polkadot
+ - Binance Coin
+ - Stellar
+ - Bitcoin SV
+
 # intent:currency <!--Global Currencies-->
 
  - Afghani
