@@ -1,3 +1,47 @@
+# intent:currency <!--currency type.-->
+ 
+- Australian dollar
+- Bangladeshi Taka
+- Chinese Yuan 
+- Danish Krone
+- Euro
+- Indian Rupee
+- Japanese Yen
+- Renminbi
+- South Korean Won
+- Swiss Franc
+- United States Dollar
+- Pound Sterling
+- Canadian Dollar
+- Hong Kong Dollar
+- Swedish Krona
+- Singapore Dollar
+- Vietnamese Dong
+
+# intent:transfer_money <!--The user would like to transfer money.-->
+
+- I would like to make a transfer
+- I want to transfer money
+- I want to pay money
+- I want to pay someone
+- Can I transfer money?
+- transfer money to Alex
+
+# intent:crypto_currency <!--Crypto Currencies-->
+
+ - Bitcoin
+ - Ethereum
+ - XRP
+ - Tether
+ - Litecoin
+ - Bitcoin Cash
+ - Chainlink
+ - Cardano
+ - Polkadot
+ - Binance Coin
+ - Stellar
+ - Bitcoin SV
+
 # intent:currency <!--Global Currencies-->
 
  - Afghani
@@ -263,6 +307,7 @@
  - Uruguayan Peso
  - Uzbekistan Sum
  - Vatu
+ - Vietnamese Dong (VND)
  - WIR Euro
  - WIR Franc
  - Won
@@ -346,7 +391,7 @@
  - Can you provide me my bank statement?
  - Please show my bank entries.
  - Please show my debits and credits.
- - Can I have a look at my reciepts and payments?
+ - Can I have a look at my receipts and payments?
  - Can I see my inflows and outflows?
  - Please show me my transaction history
  - Please retieve my transaction log
@@ -413,3 +458,5 @@
  - I want to get a password for online banking
  - What are the things I can do online and not over the phone
  - Are there things that I can only do online? 
+ - Please retrieve my transaction log
+ - I would like to see my bank account statement history

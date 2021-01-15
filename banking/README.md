@@ -20,3 +20,6 @@ This category is for intents that can be used to train bots for personal and bus
  * retirement_plan
 
  * online_banking
+
+ * crypto_currency
+
