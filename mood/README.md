@@ -13,3 +13,11 @@ This category is for intents that convey mood such as happy, unhappy, excited, f
 
 * mood_nervous
 
+* mood_bored
+
+* mood_excited
+
+* mood_lonely
+
+* mood_tired
+

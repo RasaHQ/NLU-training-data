@@ -210,7 +210,7 @@
 - I'm already bored
 - I'm bored out of my mind
 
-## intent: mood_excited
+## intent:mood_excited
 - I am excited
 - I'm really excited
 - I can't begin to say how excited I am
@@ -225,7 +225,7 @@
 - How exciting!
 - This is so fun
 
-## intent: mood_lonely
+## intent:mood_lonely
 - I am lonely
 - I'm very lonely
 - I'm so lonely
@@ -246,7 +246,7 @@
 - I am still alone
 - I am used to living alone
 
-## intent: mood_tired
+## intent:mood_tired
 - I'm drained
 - I've overworked
 - I am tired
