@@ -6,7 +6,7 @@ If you're interested in grabbing some data feel free to check out our [live data
 
 ![](dashboard.png)
 
-----
+---
 
 ## About this repository 
 
