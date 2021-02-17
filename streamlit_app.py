@@ -16,6 +16,7 @@ clump = (Clumper.read_yaml("*/nlu.yml")
 
 intents = clump.select("intent").drop_duplicates().map(lambda d: d['intent']).collect()
 intent_selection = st.sidebar.multiselect("What intents would you like to see?", intents, default=("bot_challenge", ))
+st.sidebar.markdown("The original data is on [GitHub](https://github.com/RasaHQ/NLU-training-data).")
 
 data = (clump
         .keep(lambda d: d['intent'] in intent_selection)
