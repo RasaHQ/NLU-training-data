@@ -1,0 +1,54 @@
+version: "2.0"
+nlu:
+- intent: greet_smalltalk
+  examples: |
+    - hi
+    - hello
+    - howdy
+    - hey
+    - heya
+    - hihi
+    - sup
+    - what's up
+    - hey there
+    - hello buddy
+    - wazzup
+    - yo
+- intent: goodbyes_smalltalk
+  examples: |
+    - goodbye
+    - bye
+    - see you later
+    - talk to you later
+    - cya
+    - ciao
+- intent: affirm_smalltalk
+  examples: |
+    - yes
+    - yep
+    - yeah
+    - indeed
+    - that's right
+    - ok
+    - great
+    - correct
+    - perfect
+    - sounds good
+    - sounds great
+- intent: deny_smalltalk
+  examples: |
+    - no
+    - nope
+    - no way
+    - not true
+    - no thanks
+    - nah
+    - never
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - are you a robot?
+    - am I talking to an actual person?
+    - you're a bot aren't you?
+    - are you even a real person?
