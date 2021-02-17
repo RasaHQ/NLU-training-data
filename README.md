@@ -39,10 +39,6 @@ Please always put the domain at the end of each intent. For example: `ask_transp
 
 If you would like to contribute multi-intent utterences, please add a `+` to indicate an additional intent, for example: `affirm+ask_transport`
 
-### Where do I put intents that fall into multiple domains?
-
-Please create a new folder for mixed domains, for example: [“mixed-smalltalk+transport”](https://github.com/RasaHQ/NLU-training-data/tree/master/mixed-smalltalk+transport)
-
 ### What about training data that’s not in English? 
 
 Currently, we are unable to evaluate the quality of all language contributions, and therefore, during the initial phase we can only accept English training data to the repository.
