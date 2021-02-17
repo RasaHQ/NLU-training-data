@@ -1,12 +1,10 @@
-import pathlib
-from functools import reduce
-
 import streamlit as st
-import pandas as pd
+from string import Template
 from clumper import Clumper
 
 
 st.markdown("# Intent Example Finder")
+st.markdown("Use the selector in the sidebar to construct NLU data as a starting point.")
 
 st.sidebar.markdown("Made with love over at [Rasa](https://rasa.com/).")
 st.sidebar.image(
@@ -14,25 +12,24 @@ st.sidebar.image(
 )
 
 clump = (Clumper.read_yaml("*/nlu.yml")
-         .unpack("nlu")
-         .mutate(examples=lambda d: d['examples'].split("\n"))
-         .explode(example="examples")
-         .mutate(example=lambda d: d["example"].replace("- ", ""))
-         .keep(lambda d: len(d["example"]) > 0))
+         .unpack("nlu"))
 
 intents = clump.select("intent").drop_duplicates().map(lambda d: d['intent']).collect()
-intent_selection = st.sidebar.selectbox("What model do you want to use", intents)
+intent_selection = st.sidebar.multiselect("What intents would you like to see?", intents)
 
-data = clump.keep(lambda d: d['intent'] == intent_selection).collect()
-examples = "\n".join([f"     - {d['example']}" for d in data])
-print(data)
+data = (clump
+        .keep(lambda d: d['intent'] in intent_selection)
+        .mutate(examples = lambda d: d['examples'].replace("- ", "      - "))
+        .collect())
+
+template = Template("  - intent: $intent\n  - examples : |\n$examples")
+rendered = '\n'.join([template.substitute(d) for d in data])
+
 
 text = f"""
 ```yaml
 nlu:
-  - intent: {intent_selection}
-  - examples: |
-{examples}
+{rendered}
 ```
 """
 
