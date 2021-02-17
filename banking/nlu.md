@@ -17,7 +17,6 @@
 - Swedish Krona
 - Singapore Dollar
 - Vietnamese Dong
-- - Australian dollar
 - Angolan Kwanza
 - philippine peso
 - Afghani
