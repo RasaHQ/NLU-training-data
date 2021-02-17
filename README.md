@@ -2,9 +2,11 @@
 
 Crowd-sourced training data for the development and testing of Rasa NLU models. 
 
+[![](dashboard.png)](https://share.streamlit.io/rasahq/nlu-training-data/main)
+
 If you're interested in grabbing some data feel free to check out our [live data fetching ui](https://share.streamlit.io/rasahq/nlu-training-data/main).
 
-----
+---
 
 ## About this repository 
 
