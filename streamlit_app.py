@@ -15,14 +15,14 @@ clump = (Clumper.read_yaml("*/nlu.yml")
          .unpack("nlu"))
 
 intents = clump.select("intent").drop_duplicates().map(lambda d: d['intent']).collect()
-intent_selection = st.sidebar.multiselect("What intents would you like to see?", intents)
+intent_selection = st.sidebar.multiselect("What intents would you like to see?", intents, default=("bot_challenge", ))
 
 data = (clump
         .keep(lambda d: d['intent'] in intent_selection)
         .mutate(examples = lambda d: d['examples'].replace("- ", "      - "))
         .collect())
 
-template = Template("  - intent: $intent\n  - examples : |\n$examples")
+template = Template("  - intent: $intent\n    examples : |\n$examples")
 rendered = '\n'.join([template.substitute(d) for d in data])
 
 
