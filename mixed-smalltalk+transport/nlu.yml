@@ -1,0 +1,6 @@
+version: "2.0"
+nlu:
+- intent: affirm+ask_transport
+  examples: |
+    - Sounds good. Do you know how I could get there from home?
+    - That's great. Can you also tell me how can I get to the venue?
