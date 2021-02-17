@@ -17,6 +17,17 @@
 - Fantastic day
 - What a great day
 - I'm inspired
+- It's perfect
+- amazing
+- I feel wonderful
+- I am feeling very good
+- I am great
+- I'm good
+- I'm feeling awesome
+- I'm feeling happy
+- Today is an awesome day!
+- I'm so glad
+- I'm just really happy right now
 
 ## intent:mood_unhappy
 - I am sad
@@ -50,6 +61,29 @@
 - depressed
 - heavy
 - I am feeling quite lost
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- Im feeling down
+- I'm feeling sad
+- Im feeling sad
+- Im not okay
+- Im feeling low
+- Not good
+- I'm awful
+- I'm feeling very sad
+- I'm uneasy
+- Actually I'm not fine
+- I'm not good
+- I am as lonely as can be
+- I am going through a rather rough time
+- I'm grieving
 
 ## intent:mood_angry
 - I am angry
@@ -72,6 +106,19 @@
 - I hate doing this
 - I have no patience today
 - I could not control my anger
+- I’m annoyed
+- I’m super annoyed
+- I’m so mad. 
+- I'm enraged
+- I’m straight up angry.
+- This is maddening!
+- I'm pissed off
+- I'm pissed
+- You bet I'm angry
+- That made me angry
+- U made me angry
+- I'm still angry about that
+
 
 ## intent:mood_scared
 - I am scared
@@ -120,3 +167,103 @@
 - I feel uneasy
 - I am alarmed
 - I am troubled 
+- I'm tensed
+- I'm stressed
+- I'm under a lot of stress
+- I'm constantly worried
+- I feel constant tension
+- I’m anxious.
+- I’m suffering from anxiety.
+- I’ve been feeling rather anxious lately.
+- My anxiety is rather through the roof these days.
+- I’m feeling rather restless
+- I cannot concentrate as I'm worried constantly
+- I'm under immense stress
+- It's been a rough couple of days. VERY stressful
+- I'm quite tensed.
+- There's been quite a few changes in my life. I don't think I am handling them well. It's quite stressful.
+- I find myself worrying about every little detail
+- I am a chronic worrier.
+- My anxiety is rather through the roof these days.
+- I’m feeling rather restless and a horde of worries is bothering me
+- I cannot concentrate due to the whole number of worries that are bothering me
+
+## intent:mood_bored
+- soo bored
+- that was boring
+- I'm bored
+- bored
+- boring
+- I am getting bored
+- Staying at home is boring
+- very boring
+- it bores me
+- i had a slow day
+- i am very bored
+- Im kinda bored today
+- I've never been more bored
+- I was bored
+- It's boring
+- This is boring
+- We're all bored
+- It's very boring
+- I'm already bored
+- I'm bored out of my mind
+
+## intent:mood_excited
+- I am excited
+- I'm really excited
+- I can't begin to say how excited I am
+- I'm thrilled
+- I'm damn excited
+- I'm hyped
+- I'm very excited
+- I felt excited
+- It was exciting
+- That was exciting
+- I'm really excited
+- How exciting!
+- This is so fun
+
+## intent:mood_lonely
+- I am lonely
+- I'm very lonely
+- I'm so lonely
+- I'm really lonely
+- I am feeling lonely
+- I feel lonely
+- I am a loner
+- I don't have any company
+- I don't have anyone else
+- I'm always alone
+- I'm alone
+- am all alone
+- I live alone
+- I'm all alone
+- I've gotten used to living alone
+- I think I've been living alone too long
+- I have no one to talk to
+- I am still alone
+- I am used to living alone
+
+## intent:mood_tired
+- I'm drained
+- I've overworked
+- I am tired
+- I'm exhausted
+- I grow weary
+- I'm worn out
+- I'm getting tired
+- I feel tired
+- I'm so tired
+- I'm completely drained out
+- I'm very tired
+- i was tired
+- i feel tired
+- i'm dead tired
+- I'm a bit tires
+- I was very tired
+- I am really tired
+- i am awfully tired
+- i am kind of so tired
+- I am little tired
