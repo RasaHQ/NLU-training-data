@@ -16,6 +16,7 @@
 - Hong Kong Dollar
 - Swedish Krona
 - Singapore Dollar
+- Vietnamese Dong
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
@@ -24,7 +25,22 @@
 - I want to pay money
 - I want to pay someone
 - Can I transfer money?
-- tranfer money to Alex
+- transfer money to Alex
+
+# intent:crypto_currency <!--Crypto Currencies-->
+
+ - Bitcoin
+ - Ethereum
+ - XRP
+ - Tether
+ - Litecoin
+ - Bitcoin Cash
+ - Chainlink
+ - Cardano
+ - Polkadot
+ - Binance Coin
+ - Stellar
+ - Bitcoin SV
 
 # intent:currency <!--Global Currencies-->
 
@@ -339,6 +355,284 @@
 
 
 
+=======
+ - Afghani
+ - Algerian Dinar
+ - Andorran Peseta
+ - Argentine Peso
+ - Armenian Dram
+ - Aruban Florin
+ - Austral
+ - Australian Dollar
+ - Azerbaijan Manat
+ - Azerbaijanian Manat
+ - Bahamian Dollar
+ - Bahraini Dinar
+ - Baht
+ - Balboa
+ - Bangladeshi Taka
+ - Barbados Dollar
+ - Belarusian Ruble
+ - Belgian Franc
+ - Belize Dollar
+ - Bermudian Dollar
+ - Bolivar
+ - Bolivar Fuerte
+ - Boliviano
+ - Bolívar
+ - Bolívar Soberano
+ - Brazilian Real
+ - Brunei Dollar
+ - Bulgarian Lev
+ - Burundi Franc
+ - CFA Franc BCEAO
+ - CFA Franc BEAC
+ - CFP Franc
+ - Cabo Verde Escudo
+ - Canadian Dollar
+ - Cayman Islands Dollar
+ - Cedi
+ - Chilean Peso
+ - Chinese Yuan
+ - Colombian Peso
+ - Comorian Franc
+ - Congolese Franc
+ - Convertible Franc
+ - Convertible Mark
+ - Cordoba
+ - Cordoba Oro
+ - Costa Rican Colon
+ - Croatian Dinar
+ - Croatian Kuna
+ - Cruzado
+ - Cruzeiro
+ - Cruzeiro Real
+ - Cuban Peso
+ - Cyprus Pound
+ - Czech Koruna
+ - Dalasi
+ - Danish Krone
+ - Denar
+ - Deutsche Mark
+ - Dinar
+ - Djibouti Franc
+ - Dobra
+ - Dominican Peso
+ - Dong
+ - Drachma
+ - East Caribbean Dollar
+ - Egyptian Pound
+ - Ekwele
+ - El Salvador Colon
+ - Ethiopian Birr
+ - Euro
+ - European Currency Unit (E.C.U)
+ - Falkland Islands Pound
+ - Fiji Dollar
+ - Financial Franc
+ - Financial Rand
+ - Forint
+ - French Franc
+ - Georgian Coupon
+ - Ghana Cedi
+ - Gibraltar Pound
+ - Gold
+ - Gold-Franc
+ - Gourde
+ - Guarani
+ - Guinea Escudo
+ - Guinea-Bissau Peso
+ - Guinean Franc
+ - Guyana Dollar
+ - Hong Kong Dollar
+ - Hryvnia
+ - Iceland Krona
+ - Indian Rupee
+ - Inti
+ - Iranian Rial
+ - Iraqi Dinar
+ - Irish Pound
+ - Italian Lira
+ - Jamaican Dollar
+ - Japanese Yen
+ - Jordanian Dinar
+ - Karbovanet
+ - Kenyan Shilling
+ - Kina
+ - Koruna
+ - Krona A/53
+ - Kroon
+ - Kuna
+ - Kuwaiti Dinar
+ - Kwacha
+ - Kwanza
+ - Kwanza Reajustado
+ - Kyat
+ - Lao Kip
+ - Lari
+ - Latvian Lats
+ - Latvian Ruble
+ - Lebanese Pound
+ - Lek
+ - Lempira
+ - Leone
+ - Leu A/52
+ - Lev
+ - Lev A/52
+ - Lev A/62
+ - Liberian Dollar
+ - Libyan Dinar
+ - Lilangeni
+ - Lithuanian Litas
+ - Loti
+ - Luxembourg Convertible Franc
+ - Luxembourg Financial Franc
+ - Luxembourg Franc
+ - Malagasy Ariary
+ - Malagasy Franc
+ - Malawi Kwacha
+ - Malaysian Ringgit
+ - Maldive Rupee
+ - Mali Franc
+ - Maltese Lira
+ - Maltese Pound
+ - Mark der DDR
+ - Markka
+ - Mauritius Rupee
+ - Mexican Peso
+ - Mexican Unidad de Inversion (UDI)
+ - Moldovan Leu
+ - Moroccan Dirham
+ - Mozambique Escudo
+ - Mozambique Metical
+ - Mvdol
+ - Naira
+ - Nakfa
+ - Namibia Dollar
+ - Nepalese Rupee
+ - Netherlands Antillean Guilder
+ - Netherlands Guilder
+ - New Cruzado
+ - New Dinar
+ - New Israeli Sheqel
+ - New Kwanza
+ - New Romanian Leu
+ - New Taiwan Dollar
+ - New Turkish Lira
+ - New Yugoslavian Dinar
+ - New Zaire
+ - New Zealand Dollar
+ - Ngultrum
+ - No universal currency
+ - North Korean Won
+ - Norwegian Krone
+ - Nuevo Sol
+ - Old Dong
+ - Old Krona
+ - Old Lek
+ - Old Leu
+ - Old Shekel
+ - Old Shilling
+ - Old Turkish Lira
+ - Old Uruguay Peso
+ - Ouguiya
+ - Pakistan Rupee
+ - Palladium
+ - Pataca
+ - Pathet Lao Kip
+ - Pa’anga
+ - Peso
+ - Peso Argentino
+ - Peso Convertible
+ - Peso Uruguayo
+ - Peso boliviano
+ - Philippine Peso
+ - Platinum
+ - Portuguese Escudo
+ - Pound
+ - Pound Sterling
+ - Pula
+ - Qatari Rial
+ - Quetzal
+ - RINET Funds Code
+ - Rand
+ - Rhodesian Dollar
+ - Rial Omani
+ - Riel
+ - Romanian Leu
+ - Rouble
+ - Rufiyaa
+ - Rupiah
+ - Russian Ruble
+ - Rwanda Franc
+ - SDR (Special Drawing Right)
+ - Saint Helena Pound
+ - Saudi Riyal
+ - Schilling
+ - Serbian Dinar
+ - Seychelles Rupee
+ - Silver
+ - Singapore Dollar
+ - Slovak Koruna
+ - Sol
+ - Solomon Islands Dollar
+ - Som
+ - Somali Shilling
+ - Somoni
+ - South Korean Won
+ - South Sudanese Pound
+ - Spanish Peseta
+ - Sri Lanka Rupee
+ - Sucre
+ - Sudanese Dinar
+ - Sudanese Pound
+ - Surinam Dollar
+ - Surinam Guilder
+ - Swedish Krona
+ - Swiss Franc
+ - Syli
+ - Syrian Pound
+ - Tajik Ruble
+ - Taka
+ - Tala
+ - Talonas
+ - Tanzanian Shilling
+ - Tenge
+ - Timor Escudo
+ - Tolar
+ - Trinidad and Tobago Dollar
+ - Tugrik
+ - Tunisian Dinar
+ - Turkish Lira
+ - Turkmenistan Manat
+ - Turkmenistan New Manat
+ - UAE Dirham
+ - UIC-Franc
+ - US Dollar
+ - Uganda Shilling
+ - Unidad Previsional
+ - Unidad de Fomento
+ - Unidad de Valor Constante (UVC)
+ - Unidad de Valor Real
+ - United States Dollar
+ - Uruguay Peso en Unidades Indexadas (UI)
+ - Uruguayan Peso
+ - Uzbekistan Sum
+ - Vatu
+ - Vietnamese Dong (VND)
+ - WIR Euro
+ - WIR Franc
+ - Won
+ - Yemeni Dinar
+ - Yemeni Rial
+ - Yen
+ - Yuan Renminbi
+ - Renminbi
+ - Yugoslavian Dinar
+ - Zaire
+ - Zambian Kwacha
+ - Zimbabwe Dollar
+ - Zloty
 
 # intent:transfer_money <!--The user would like to transfer money.-->
 
@@ -350,7 +644,26 @@
  - I would like to make a payment
  - I want to do money transaction
  - I want to transfer some amount to someone
-
+ - I'd like to transfer sixty dollars from my checking account
+ - I want to wire two hundred dollars from my checking account
+ - I want to make a transfer of one hundred fifty dollars to my savings account
+ - Can I please transfer some money between my accounts
+ - I just want to send a hundred dollars to my savings
+ - I want to make a wire transfer
+ - Is it possible to transfer money online
+ - Are online transfers available
+ - How can I transfer money 
+ - What do I need to do to transfer some money between my accounts
+ - I want to transfer money to my wife's account
+ - I want to make a transfer today
+ - Make a transfer
+ - Transfer money
+ - I would like to make a transfer
+ - I want to transfer money
+ - I want to pay money
+ - I want to pay someone
+ - Can I transfer money?
+ - Transfer money to Alex
 
 # intent:show_accounts <!--The user would like to check their accounts.-->
 
@@ -389,7 +702,6 @@
  - get me my accounts information
  - Please retrieve my accounts information
 
-
 # intent:show_credit_cards <!--The user would like see a list of credit cards.-->
 
  - please show my credit cards
@@ -419,8 +731,6 @@
  - I want to see list of all my credit cards
  - I would like to see information of all my credit cards 
 
-
-
 # intent:show_statement <!--The user would like to see to see a log of their bank statement.-->
 
  - Please show me my bank statement
@@ -448,8 +758,71 @@
  - Show my account statements
  - Please show my bank entries.
  - Please show my debits and credits.
- - Can I have a look at my reciepts and payments?
+ - Can I have a look at my receipts and payments?
  - Can I see my inflows and outflows?
  - Please show me my transaction history
  - Please retieve my transaction log
+ - I would like to see my bank account statement history
+
+# intent:interest_rate <!--The user would like to get some information on interest rates.-->
+
+ - yeah hi what is the current interest rate for loans
+ - what's the interest rate for a 30 year mortgage
+ - what's the availavble interest rate for mortgages today
+ - what's the interest rate for your golden credit cards 
+ - what's the interest rate for your credit card
+ - What's the best interest rate I can get within your bank
+ - I need to borrow some money so I want to know the interest rates
+ - What are the interest rates if I ask for one hundred thousand
+
+# intent:lost_card <!--The user lost their card-->
+
+ - i've lost my card 
+ - I don't know where my card is
+ - I have no idea where've left my card
+ - I left my card somewhere and now I need to cancel it
+ - I really don't remember where my card is
+ - I'm afraid I don't know where my card is
+ - I've lost my credit card and I don't think I will find it again
+ - My card is gone I must have left it somewhere
+ - I'm afraid someone took my card so I'd better cancel it
+ - I have no clue where is my card 
+ - Can't find my card don't know what to do
+ - Can't find my card what should I do
+
+# intent:change_pin <!--The user wants to change their pin code-->
+ - I don't remember my pin and need to change it
+ - I want to change my pin because I can't remember it.
+ - How can I change my pin over the phone
+ - Is it possible to change my card's pin online
+ - Could you help me resetting my pin
+ - Can I get a new pin number for my card
+ - What do I need to do to get a new pin number
+ - How can I restore the secret code of my card
+ - I lost my card's secret number now I can't use it anymore
+ - Where can I find my card's pin
+ - Where can I find my card's secret code
+ - I think someone discovered my pin and I want to change it 
+ - I want to change the secret digits to access my credit card.
+
+# intent:retirement_plan <!--The user would like to get more information on retirement plans-->
+
+ - I want to apply to a retirement savings plan
+ - What are the available plans for retirement in your bank 
+ - what's the best RSP available in your products
+ - Do you offer retirement savings plans
+ - I want to invest some money for my retirement
+
+# intent:online_banking <!--The user would like to get more information on online banking -->
+
+ - I want to get access to online banking
+ - What can I do in the online banking
+ - How can I benefit from your online banking
+ - Do you have a mobile app for online banking 
+ - Can I make transfer online
+ - Can I check my balance online
+ - I want to get a password for online banking
+ - What are the things I can do online and not over the phone
+ - Are there things that I can only do online? 
+ - Please retrieve my transaction log
  - I would like to see my bank account statement history
