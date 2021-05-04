@@ -1,3 +1,6 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rasahq/nlu-training-data/main)
+
+
 # NLU Training Data
 
 Crowd-sourced training data for the development and testing of Rasa NLU models. 
