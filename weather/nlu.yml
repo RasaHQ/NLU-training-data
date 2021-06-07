@@ -12,12 +12,15 @@ nlu:
     - bright
     - chilly
     - clear
+    - clear skies
+    - clear sky
     - cloud
     - cloudy
     - cold
     - cold biting wind
     - cold wind
     - cool
+    - cyclone
     - damp
     - dark
     - dark clouds
@@ -35,6 +38,7 @@ nlu:
     - forecast
     - freeze
     - freezing
+    - freezing rain
     - fresh
     - frost
     - frosty
@@ -42,6 +46,7 @@ nlu:
     - gust of wind
     - gusty
     - hail
+    - hailing
     - hailstone
     - hailstorm
     - hazy
@@ -65,10 +70,13 @@ nlu:
     - moon
     - muggy
     - overcast
+    - partly cloudy
+    - partly sunny
     - precipitation
     - pressure
     - puff of wind
     - rain
+    - rain and snow
     - rain showers
     - raindrop
     - rainfall
@@ -117,6 +125,7 @@ nlu:
     - wet
     - whirlwind
     - wind
+    - windstorm
     - windy
 - intent: temperature_weather
   examples: |
