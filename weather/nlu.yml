@@ -227,3 +227,10 @@ nlu:
     - What did the weather girl say ?
     - what did the weather man say about today ?
     - Is the weather always like this here ?
+- intent: season
+  examples: |
+    - spring
+    - summer
+    - fall
+    - autumn
+    - winter
