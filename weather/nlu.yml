@@ -234,3 +234,13 @@ nlu:
     - fall
     - autumn
     - winter
+- intent: ask_season  # User wants to know which is the current season
+  examples: |
+    - What is the current season ?
+    - Which season are we in ?
+    - Is it summer ?
+    - Are we in winter ??
+    - is this the fall already ?
+    - Is it autumn yet ?
+    - it is spring right now ?
+    - The current season now is ?
