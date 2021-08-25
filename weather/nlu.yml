@@ -52,6 +52,7 @@ nlu:
     - hazy
     - heat
     - heat wave
+    - heatwave
     - heavy grey clouds
     - heavy winds
     - hot
@@ -72,6 +73,7 @@ nlu:
     - overcast
     - partly cloudy
     - partly sunny
+    - pouring
     - precipitation
     - pressure
     - puff of wind
@@ -109,11 +111,13 @@ nlu:
     - sunny
     - sunny intervals
     - sunshine
+    - temperature inversion
     - thunder
     - thunder-cloud
     - thundershowers
     - thunderstorm
     - thunderstorms
+    - thundersnows
     - to pour
     - tornado
     - tornadoes
