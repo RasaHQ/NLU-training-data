@@ -30,6 +30,7 @@ nlu:
     - dew
     - downpour
     - drizzle
+    - drought
     - dry
     - dull
     - dust storm
@@ -135,6 +136,7 @@ nlu:
     - wind
     - windstorm
     - windy
+    - winter storm
 - intent: temperature_weather
   examples: |
     - above zero
@@ -221,9 +223,9 @@ nlu:
     - What's the forecast?
     - What's the weather like today?
     - Will the weather keep up?
-    - whats todays weather forecast ?
+    - What's todays weather forecast ?
     - How is today's weather like ?
-    - can you tell me the weather ?
+    - Can you tell me about the weather ?
     - Will it rain today ?
     - will it be sunny today ?
     - Is it possible to rain ?
@@ -232,6 +234,12 @@ nlu:
     - What did the weather girl say ?
     - what did the weather man say about today ?
     - Is the weather always like this here ?
+    - What's the average temperature ?
+    - What're the seasons ?
+    - What's the hottest season ?
+    - What's the coldest season ?
+    - What're the different kinds of weather ?
+    - What's the weather like in each season ?
 - intent: season
   examples: |
     - spring
