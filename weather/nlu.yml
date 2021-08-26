@@ -3,6 +3,7 @@ nlu:
 - intent: type_weather
   examples: |
     - air
+    - atmospheric pressure
     - black clouds
     - blinding snowstorm
     - blizzard
@@ -15,6 +16,7 @@ nlu:
     - clear skies
     - clear sky
     - cloud
+    - cloudiness
     - cloudy
     - cold
     - cold biting wind
@@ -59,6 +61,7 @@ nlu:
     - humid
     - humidity
     - hurricane
+    - ice
     - icy
     - it lightens
     - it rains cats and dogs
@@ -111,6 +114,7 @@ nlu:
     - sunny
     - sunny intervals
     - sunshine
+    - temperature
     - temperature inversion
     - thunder
     - thunder-cloud
