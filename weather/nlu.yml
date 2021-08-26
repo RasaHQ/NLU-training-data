@@ -158,7 +158,8 @@ nlu:
     - weather station
     - weatherman
     - wind chill
-    - windchill
+    - low humidity
+    - high humidity
 - intent: ask_forecast_weather
   examples: |
     - Anybody notice the weather today?
@@ -244,3 +245,5 @@ nlu:
     - Is it autumn yet ?
     - it is spring right now ?
     - The current season now is ?
+    - Is it summer already?
+    - What's the next season?
