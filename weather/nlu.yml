@@ -3,6 +3,7 @@ nlu:
 - intent: type_weather
   examples: |
     - air
+    - atmospheric pressure
     - black clouds
     - blinding snowstorm
     - blizzard
@@ -15,6 +16,7 @@ nlu:
     - clear skies
     - clear sky
     - cloud
+    - cloudiness
     - cloudy
     - cold
     - cold biting wind
@@ -28,6 +30,7 @@ nlu:
     - dew
     - downpour
     - drizzle
+    - drought
     - dry
     - dull
     - dust storm
@@ -52,12 +55,14 @@ nlu:
     - hazy
     - heat
     - heat wave
+    - heatwave
     - heavy grey clouds
     - heavy winds
     - hot
     - humid
     - humidity
     - hurricane
+    - ice
     - icy
     - it lightens
     - it rains cats and dogs
@@ -72,6 +77,7 @@ nlu:
     - overcast
     - partly cloudy
     - partly sunny
+    - pouring
     - precipitation
     - pressure
     - puff of wind
@@ -109,11 +115,14 @@ nlu:
     - sunny
     - sunny intervals
     - sunshine
+    - temperature
+    - temperature inversion
     - thunder
     - thunder-cloud
     - thundershowers
     - thunderstorm
     - thunderstorms
+    - thundersnows
     - to pour
     - tornado
     - tornadoes
@@ -127,6 +136,7 @@ nlu:
     - wind
     - windstorm
     - windy
+    - winter storm
 - intent: temperature_weather
   examples: |
     - above zero
@@ -154,7 +164,8 @@ nlu:
     - weather station
     - weatherman
     - wind chill
-    - windchill
+    - low humidity
+    - high humidity
 - intent: ask_forecast_weather
   examples: |
     - Anybody notice the weather today?
@@ -212,3 +223,55 @@ nlu:
     - What's the forecast?
     - What's the weather like today?
     - Will the weather keep up?
+    - What's todays weather forecast ?
+    - How is today's weather like ?
+    - Can you tell me about the weather ?
+    - Will it rain today ?
+    - will it be sunny today ?
+    - Is it possible to rain ?
+    - will it be this hot all day ?
+    - Why isn’t it raining today ?
+    - What did the weather girl say ?
+    - what did the weather man say about today ?
+    - Is the weather always like this here ?
+    - What's the average temperature ?
+    - What're the seasons ?
+    - What's the hottest season ?
+    - What's the coldest season ?
+    - What're the different kinds of weather ?
+    - What's the weather like in each season ?
+- intent: season
+  examples: |
+    - spring
+    - summer
+    - fall
+    - autumn
+    - winter
+- intent: ask_season  # User wants to know which is the current season
+  examples: |
+    - What is the current season ?
+    - Which season are we in ?
+    - Is it summer ?
+    - Are we in winter ?
+    - Is this the fall already ?
+    - Is it autumn yet ?
+    - Is it spring right now ?
+    - Is it summer already ?
+    - What's the next season ?
+    - Is it summer yet ?
+    - Is it winter ?
+    - Is it winter yet ?
+    - Is it winter already ?
+    - Is it fall ?
+    - Is it fall yet ?
+    - Is it fall already ?
+    - Is it spring ?
+    - Is it spring yet ?
+    - Is it spring already ?
+    - Is it autumn ?
+    - Is it autumn yet ?
+    - Is it autumn already ?
+    - Is it summer right now ?
+    - Is it fall right now ?
+    - Is it autumn right now ?
+    - Is it winter right now ?
