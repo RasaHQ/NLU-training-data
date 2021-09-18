@@ -157,58 +157,67 @@ nlu:
     - windchill
 - intent: ask_forecast_weather
   examples: |
-    - Anybody notice the weather today?
-    - Are the roads flooded today?
-    - Awful weather, isn’t it?
-    - Do you know the weather forecast for today?
-    - Do I need to carry an umbrella today?
-    - Do I need to carry an umbrella tomorrow?
-    - How is the weather today?
-    - How cold is it going to get today?
-    - How cold is it going to be tomorrow?
-    - How hot is it going to get today?
-    - How hot is it going to be tomorrow?
-    - How humid is it going to get today?
-    - How humid is it going to be tomorrow?
-    - How rainy is it going to be today?
-    - How rainy is it going to be tomorrow?
-    - How’s the weather?
-    - How's the weather out in the country today?
-    - I wonder if there will be a storm?
-    - Is it cold outside?
-    - Is it expected to rain?
-    - Is it expected to snow?
-    - Is it snowing outside?
-    - Is it warm or cold?
-    - Is it windy out?
-    - It is so cloudy today, isn’t it?
-    - It is so sunny today, isn’t it?
-    - Is there much flooding on the roads today?
-    - Lovely day, huh?
-    - Nice weather today, isn’t it?
-    - So, what will the weather be like today?
-    - Tell me, what is the weather like today?
-    - Terrible weather, isn’t it?
-    - The forecast?
-    - What do you think the weather looks like?
-    - What is the humidity level right now?
-    - What is the temperature outside?
-    - What is the temperature?
-    - What is the weather expected to be like?
-    - What is the weather forecast saying?
-    - What is the weather forecast today?
-    - What is the weather today?
-    - What temperature do you think it is?
-    - What’s it like out there?
-    - What’s it like out?
-    - What's the humidity level right now?
-    - What’s the temperature like out there?
-    - What’s the temperature like?
-    - What’s the temperature today?
-    - What’s the temperature?
-    - What’s the weather forecast?
-    - What’s the weather like?
-    - What's the forecast like?
-    - What's the forecast?
-    - What's the weather like today?
-    - Will the weather keep up?
+    - Anybody notice the weather today?
+    - Are the roads flooded today?
+    - Awful weather, isn’t it?
+    - Do I need to carry an umbrella today?
+    - Do I need to carry an umbrella tomorrow?
+    - Do you know the weather forecast for today?
+    - How cold is it going to be tomorrow?
+    - How cold is it going to get today?
+    - How hot is it going to be tomorrow?
+    - How hot is it going to get today?
+    - How humid is it going to be tomorrow?
+    - How humid is it going to get today?
+    - How is the weather today?
+    - How rainy is it going to be today?
+    - How rainy is it going to be tomorrow?
+    - How windy is it outside? 
+    - How's the weather out in the country today?
+    - How’s the weather?
+    - I wonder if there will be a storm?
+    - Is it cold outside?
+    - Is it expected to rain?
+    - Is it expected to snow?
+    - Is it hot or cold?
+    - Is it raining outside?
+    - Is it snowing outside?
+    - Is it sunny, should I take sunglasses?
+    - Is it warm or cold?
+    - Is it windy out?
+    - Is there much flooding on the roads today?
+    - It is so cloudy today, isn’t it?
+    - It is so sunny today, isn’t it?
+    - Lovely day, huh?
+    - Nice weather today, isn’t it?
+    - Should I take my umbrella?
+    - So, what will the weather be like today?
+    - Tell me, what is the weather like today?
+    - Terrible weather, isn’t it?
+    - The forecast?
+    - What do you think the weather looks like?
+    - What is the humidity level right now?
+    - What is the temperature outside?
+    - What is the temperature?
+    - What is the weather expected to be like?
+    - What is the weather forecast saying?
+    - What is the weather forecast today?
+    - What is the weather supposed to be today? 
+    - What is the weather today?
+    - What temperature do you think it is?
+    - What's the forecast like?
+    - What's the forecast?
+    - What's the humidity level right now?
+    - What's the weather like today?
+    - What’s it like out there?
+    - What’s it like out?
+    - What’s it like outside?
+    - What’s the forecast for tonight? 
+    - What’s the temperature like out there?
+    - What’s the temperature like?
+    - What’s the temperature today?
+    - What’s the temperature?
+    - What’s the weather expected to be tomorrow?
+    - What’s the weather forecast?
+    - What’s the weather like?
+    - Will the weather keep up?
