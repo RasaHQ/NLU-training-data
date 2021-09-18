@@ -328,20 +328,164 @@ nlu:
     - Transfer money to Alex
 - intent: crypto_currency
   examples: |
-    - Bitcoin
-    - Ethereum
-    - XRP
-    - Tether
-    - Litecoin
-    - Bitcoin Cash
-    - Chainlink
-    - Cardano
-    - Polkadot
+    - Aave
+    - Algorand
+    - Alpha Finance Lab
+    - Amp
+    - Ardor
+    - Arweave
+    - Audius
+    - Augur
+    - Avalanche
+    - Avalanche  
+    - Axie Infinity
+    - BakeryToken
+    - Bancor
+    - Band Protocol
     - Binance Coin
-    - Stellar
+    - Binance USD
+    - Bitcoin
+    - Bitcoin BEP2
+    - Bitcoin Cash
+    - Bitcoin Cash
+    - Bitcoin Diamond
     - Bitcoin SV
+    - BitTorrent
+    - Cardano
+    - Celer Network
+    - Celo
+    - Celsius
+    - Chainlink
+    - Chainlink
+    - Chainlink
+    - Chiliz
+    - Civic
+    - Compound
+    - Conflux
+    - Constellation
+    - Cosmos
+    - Crypto.com Coin
+    - Dai
+    - Dash
+    - Decentraland
+    - Decred
+    - Dent
+    - DigiByte
+    - DigitalBits
     - Dogecoin
-    - litecoin
+    - eCash
+    - Elrond
+    - Energy Web Token
+    - Enjin Coin
+    - EOS
+    - Ergo
+    - Ethereum
+    - Ethereum Classic
+    - Fantom
+    - Fei Protocol
+    - Fetch.ai
+    - Filecoin
+    - Flow
+    - FTX Token
+    - GateToken
+    - Gnosis
+    - Golem
+    - Harmony
+    - Hedera Hashgraph
+    - Helium
+    - Holo
+    - Horizen
+    - Huobi Token
+    - HUSD
+    - ICON
+    - iExec RLC
+    - Internet Computer
+    - IOTA
+    - IoTeX
+    - Kava.io
+    - KuCoin Token
+    - Kusama
+    - Lisk
+    - Litecoin
+    - litecoinz
+    - Livepeer
+    - Loopring
+    - MaidSafeCoin
+    - Maker
+    - Mdex
+    - MediBloc
+    - Monero
+    - Nano
+    - NEAR Protocol
+    - Neo
+    - Nervos Network
+    - Neutrino USD
+    - Nexo
+    - Numeraire
+    - Oasis Network
+    - Ocean Protocol
+    - OMG Network
+    - Ontology
+    - Ontology Gas
+    - Origin Protocol
+    - PancakeSwap
+    - Pax Dollar
+    - PAX Gold
+    - Perpetual Protocol
+    - Phala Network
+    - Polkadot
+    - Polygon
+    - Polymath
+    - Qtum
+    - Quant
+    - Ravencoin
+    - Raydium
+    - Reserve Rights
+    - Revain
+    - Serum
+    - Siacoin
+    - SingularityNET
+    - SKALE Network
+    - Stacks
+    - Steem
+    - Stellar
+    - Stellar
+    - Storj
+    - StormX
+    - Stratis
+    - Swipe
+    - Synthetix
+    - Telcoin
+    - Terra
+    - TerraUSD
+    - Tether
+    - Tezos
+    - The Graph
+    - The Sandbox
+    - THETA
+    - Theta Fuel
+    - THORChain
+    - TRON
+    - TrueUSD
+    - Unibright
+    - Uniswap
+    - UNUS SED LEO
+    - USD Coin
+    - VeChain
+    - Venus
+    - Verge
+    - VeThor Token
+    - Voyager Token
+    - Waves
+    - WAX
+    - WazirX
+    - WINkLink
+    - WOO Network
+    - Wrapped Bitcoin
+    - XinFin
+    - XRP
+    - Zcash
+    - Zilliqa
 - intent: show_accounts
   examples: |
     - please list my accounts
