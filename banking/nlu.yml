@@ -341,7 +341,26 @@ nlu:
     - Stellar
     - Bitcoin SV
     - Dogecoin
-    - litecoin
+    - Solana
+    - THETA
+    - VeChain
+    - Neutrino
+    - USD Coin
+    - Avalanche
+    - Uniswap
+    - Terra
+    - Chainlink
+    - Algorand
+    - Wrapped Bitcoin
+    - Internet Computer
+    - Polygon
+    - Filecoin
+    - Cosmos
+    - Stellar
+    - Monero
+    - SUSHI
+    - Neo
+    - Dai
 - intent: show_accounts
   examples: |
     - please list my accounts
@@ -438,7 +457,7 @@ nlu:
   examples: |
     - yeah hi what is the current interest rate for loans
     - what's the interest rate for a 30 year mortgage
-    - what's the availavble interest rate for mortgages today
+    - what's the available interest rate for mortgages today
     - what's the interest rate for your golden credit cards
     - what's the interest rate for your credit card
     - What's the best interest rate I can get within your bank
@@ -493,3 +512,36 @@ nlu:
     - Are there things that I can only do online?
     - Please retrieve my transaction log
     - I would like to see my bank account statement history
+- intent: loan
+  examples: |
+    - I would like to take out a loan
+    - How can I make a loan? 
+    - Can I get a loan? 
+    - Can I get a money? 
+    - I require money
+    - I need some money
+    - I need to pay my overdue bills
+    - I want to buy a car
+    - I would like to get a loan to buy a house
+- intent: investment 
+  examples: |
+    - I would like to make an investment 
+    - I don't want to leave my money standing 
+    - Does the bank offer any type of investment? 
+    - I would like to have an extra income 
+    - I want to earn extra money with my money 
+    - I want to invest my money in cryptocurrencies
+- intent: business-hours 
+  examples: |
+    - How many hours a day does the bank service work? 
+    - Is the bank available now? 
+    - Is the bank already open for access? 
+    - Does the bank work today? 
+    - Is the bank closed? 
+    - Is the bank working on holiday? 
+    - Will the bank open tomorrow?  
+- intent : request_card
+  exemplos : |
+    - I lost my card, I would like to request a new card
+    - My card was stolen, I would like to request a new one
+    - I left my card somewhere and now I need to request a new card
