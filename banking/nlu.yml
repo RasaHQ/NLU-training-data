@@ -345,6 +345,22 @@ nlu:
     - THETA
     - VeChain
     - Neutrino
+    - USD Coin
+    - Avalanche
+    - Uniswap
+    - Terra
+    - Chainlink
+    - Algorand
+    - Wrapped Bitcoin
+    - Internet Computer
+    - Polygon
+    - Filecoin
+    - Cosmos
+    - Stellar
+    - Monero
+    - SUSHI
+    - Neo
+    - Dai
 - intent: show_accounts
   examples: |
     - please list my accounts
@@ -506,7 +522,7 @@ nlu:
     - I need some money
     - I need to pay my overdue bills
     - I want to buy a car
-    - intent: loan
+    - I would like to get a loan to buy a house
 - intent: investment 
   examples: |
     - I would like to make an investment 
@@ -514,6 +530,7 @@ nlu:
     - Does the bank offer any type of investment? 
     - I would like to have an extra income 
     - I want to earn extra money with my money 
+    - I want to invest my money in cryptocurrencies
 - intent: business-hours 
   examples: |
     - How many hours a day does the bank service work? 
@@ -523,3 +540,8 @@ nlu:
     - Is the bank closed? 
     - Is the bank working on holiday? 
     - Will the bank open tomorrow?  
+- intent : request_card
+  exemplos : |
+    - I lost my card, I would like to request a new card
+    - My card was stolen, I would like to request a new one
+    - I left my card somewhere and now I need to request a new card
