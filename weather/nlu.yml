@@ -3,6 +3,8 @@ nlu:
 - intent: type_weather
   examples: |
     - air
+    - arid
+    - ball lightning
     - black clouds
     - blinding snowstorm
     - blizzard
@@ -11,6 +13,7 @@ nlu:
     - breezy
     - bright
     - chilly
+    - chinook
     - clear
     - clear skies
     - clear sky
@@ -26,8 +29,10 @@ nlu:
     - dark clouds
     - dense clouds
     - dew
+    - dog days
     - downpour
     - drizzle
+    - drought
     - dry
     - dull
     - dust storm
@@ -43,6 +48,7 @@ nlu:
     - frost
     - frosty
     - gale
+    - globe lightning
     - gust of wind
     - gusty
     - hail
@@ -59,16 +65,20 @@ nlu:
     - humidity
     - hurricane
     - icy
+    - indian summer
     - it lightens
     - it rains cats and dogs
     - it thunders
+    - jet stream
     - lightning
     - mist
     - misty
     - moderate wind
+    - moisture
     - monsoon
     - moon
     - muggy
+    - nor'easter
     - overcast
     - partly cloudy
     - partly sunny
@@ -98,6 +108,7 @@ nlu:
     - snowing
     - snowstorm
     - snowy
+    - spring
     - squall
     - star
     - sticky
@@ -117,6 +128,7 @@ nlu:
     - to pour
     - tornado
     - tornadoes
+    - tsunami
     - twister
     - typhoon
     - very strong wind
@@ -130,6 +142,7 @@ nlu:
 - intent: temperature_weather
   examples: |
     - above zero
+    - anemometer
     - atmospheric absolute pressure
     - average temperature
     - barometer
@@ -186,6 +199,7 @@ nlu:
     - Is there much flooding on the roads today?
     - Lovely day, huh?
     - Nice weather today, isn’t it?
+    - Should I take an umbrella today?
     - So, what will the weather be like today?
     - Tell me, what is the weather like today?
     - Terrible weather, isn’t it?
@@ -212,3 +226,4 @@ nlu:
     - What's the forecast?
     - What's the weather like today?
     - Will the weather keep up?
+    - Will it be cold outside today ?
