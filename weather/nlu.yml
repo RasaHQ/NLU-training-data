@@ -160,6 +160,7 @@ nlu:
     - Anybody notice the weather today?
     - Are the roads flooded today?
     - Awful weather, isn’t it?
+    - Can you tell me the weather?
     - Do you know the weather forecast for today?
     - Do I need to carry an umbrella today?
     - Do I need to carry an umbrella tomorrow?
@@ -174,10 +175,12 @@ nlu:
     - How rainy is it going to be tomorrow?
     - How’s the weather?
     - How's the weather out in the country today?
+    - I wonder if there will be a rain today?
     - I wonder if there will be a storm?
     - Is it cold outside?
     - Is it expected to rain?
     - Is it expected to snow?
+    - Is it rainy today?
     - Is it snowing outside?
     - Is it warm or cold?
     - Is it windy out?
@@ -211,4 +214,5 @@ nlu:
     - What's the forecast like?
     - What's the forecast?
     - What's the weather like today?
+    - Will the weather be like yesterday?
     - Will the weather keep up?
