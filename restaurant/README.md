@@ -7,3 +7,5 @@
 * table_reservation
 
 * restaurant_review
+
+* restauran_opening_hours

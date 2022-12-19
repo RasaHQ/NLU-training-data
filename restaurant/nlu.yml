@@ -4,6 +4,7 @@ nlu:
   examples: |
     - suggest me the closest restaurant
     - restaurants near me
+    - open restaurants near me
     - locate a restaurant near me
     - find me a restaurant
     - restaurants
@@ -22,7 +23,15 @@ nlu:
     - A family restaurant
     - mexican
     - Indian
+    - arabian
+    - brazilian
     - Chinese restaurant
+    - vegan
+    - vegerarian
+    - fast-food
+    - pizza
+    - japanese
+    - healthy food
     - any restaurant
     - I would like to visit a multicusine restaurant
     - restaurant with a bar
@@ -34,12 +43,16 @@ nlu:
     - dinning with a view
     - restaurant on a terrace
     - fusion restaurant
+    - restaurant with delivery
+    - good desserts
+    - famous restaurants
 - intent: table_reservation
   examples: |
     - Book a table for two people
     - Book a table for 2 people
     - table for 10 persons
     - table for six
+    - Book a table for two at 10pm
     - table near the pool side
     - table for four with an child seating
     - table for a couple
@@ -61,3 +74,11 @@ nlu:
     - the waiter was rude
     - the meal was delicious
     - food was exquisite
+    - good seasoning
+    - great looking food
+- intent: restauran_opening_hours
+  examples: |
+    - morning restaurants
+    - night restaurants
+    - 24h restaurants
+    - restaurants open on Sunday
