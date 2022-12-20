@@ -5,18 +5,23 @@ nlu:
     - C++ Programming
     - Python Programming
     - Java Programming
+    - C# Programming
     - HTML / CSS
     - Java Script
     - Web Development
     - Android Development
+    - Game Development
     - Artificial Intelligence
     - Deep Learning
     - Machine Learning
     - Data Science
+    - Computer vision
+    - Data Engineering
     - Operating System
     - Networking
     - Cyber Security
     - Blockchain
+    - Embedded systems
 - intent: Management_Courses
   examples: |
     - Banking and Finance
@@ -30,6 +35,8 @@ nlu:
     - Product Management
     - Project Management
     - Policy Making
+    - Designing Organizational Structure
+    - Risk Management
 - intent: Literature_Courses
   examples: |
     - English Literature
@@ -38,3 +45,5 @@ nlu:
     - Hindi Literature
     - Sanskrit Literature
     - German Literature
+    - Portuguese Literature
+    - Japanese literature
