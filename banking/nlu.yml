@@ -341,7 +341,35 @@ nlu:
     - Stellar
     - Bitcoin SV
     - Dogecoin
-    - litecoin
+    - Solana
+    - THETA
+    - VeChain
+    - Neutrino
+    - USD Coin
+    - Avalanche
+    - Uniswap
+    - Terra
+    - Chainlink
+    - Algorand
+    - Wrapped Bitcoin
+    - Internet Computer
+    - Polygon
+    - Filecoin
+    - Cosmos
+    - Stellar
+    - Monero
+    - SUSHI
+    - Neo
+    - DAI
+    - Ripple
+    - EOS
+    - Kusama
+    - 1inch
+    - Ripio Coin
+    - Celo
+    - Spell
+    - dYdX
+    - The Graph
 - intent: show_accounts
   examples: |
     - please list my accounts
@@ -444,6 +472,7 @@ nlu:
     - What's the best interest rate I can get within your bank
     - I need to borrow some money so I want to know the interest rates
     - What are the interest rates if I ask for one hundred thousand
+    - What’s the interest rate on this account?
 - intent: lost_card
   examples: |
     - i've lost my card
@@ -458,6 +487,8 @@ nlu:
     - I have no clue where is my card
     - Can't find my card don't know what to do
     - Can't find my card what should I do
+    - I want to report a lost credit card
+    - I want to report a stolen credit card
 - intent: change_pin
   examples: |
     - I don't remember my pin and need to change it
@@ -493,3 +524,69 @@ nlu:
     - Are there things that I can only do online?
     - Please retrieve my transaction log
     - I would like to see my bank account statement history
+- intent: loan
+  examples: |
+    - I would like to take out a loan
+    - How can I make a loan? 
+    - Can I get a loan? 
+    - Can I get a money? 
+    - I require money
+    - I need some money
+    - I need to pay my overdue bills
+    - I want to buy a car
+    - I would like to get a loan to buy a house
+    - I want to apply for a loan
+- intent: investment 
+  examples: |
+    - I would like to make an investment 
+    - I don't want to leave my money standing 
+    - Does the bank offer any type of investment? 
+    - I would like to have an extra income 
+    - I want to earn extra money with my money
+    - I want to invest my money in cryptocurrencies
+    - I would like to be an investor
+- intent: opening-times 
+  examples: |
+    - How many hours a day does the bank service work? 
+    - Is the bank available now? 
+    - Is the bank already open for access? 
+    - Does the bank work today? 
+    - Is the bank closed? 
+    - Is the bank working on holiday? 
+    - Will the bank open tomorrow?
+- intent: withdrawal
+  examples: |
+    - Can I make a withdrawal?
+    - I would like to make a withdrawal
+    - I want to make a withdrawal
+    - I would like to take money out of my bank account
+    - I would like to withdraw
+    - I would like to take out money
+- intent: deposit
+  examples: |
+    - I would like to pay this into my account
+    - I would like to make a deposit
+    - I would like to pay a deposit
+- intent: open_account
+  examples: |
+    - I would like to open an account
+    - I would like to open a personal account
+    - I would like to open a business account
+    - I would like to open a savings account
+    - What do I need to open an bank account?
+- intent: exchange
+  examples: |
+    - I would like to change some money
+    - I would like to exchange money
+    - I would like to order some foreign currency
+    - What's the exchange rate
+    - I would like some euros
+    - I would like some dollars
+- intent: cheque
+  examples: |
+    - I would like to pay this cheque in
+    - How many days will it take for the cheque to clear?
+    - I would like to order a new chequebook
+    - I would like to cancel a cheque
+    - I would like to cash a cheque
+    - I would like to pay in a cheque
