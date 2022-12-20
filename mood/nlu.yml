@@ -20,6 +20,7 @@ nlu:
     - What a great day
     - I'm inspired
     - It's perfect
+    - Today was a good day!
     - amazing
     - I feel wonderful
     - I am feeling very good
@@ -30,6 +31,9 @@ nlu:
     - Today is an awesome day!
     - I'm so glad
     - I'm just really happy right now
+    - I'm feeling pretty good right now
+    - I'm in a very good mood
+    - Feeling good 
 - intent: mood_unhappy
   examples: |
     - I am sad
@@ -38,6 +42,7 @@ nlu:
     - my day was horrible
     - This is bad
     - I am sick
+    - I fell awful
     - I am ill
     - I am all low today
     - Its dissapointing
@@ -58,6 +63,7 @@ nlu:
     - I am feeling bored
     - life is boring
     - I am feeling empty
+    - I am so depressed
     - I feel useless
     - aweful
     - depressed
@@ -86,6 +92,8 @@ nlu:
     - I am as lonely as can be
     - I am going through a rather rough time
     - I'm grieving
+    - I'm full of sadness
+    - This is the worst day of my life
 - intent: mood_angry
   examples: |
     - I am angry
@@ -108,11 +116,11 @@ nlu:
     - I hate doing this
     - I have no patience today
     - I could not control my anger
-    - I’m annoyed
-    - I’m super annoyed
-    - I’m so mad.
+    - I'm annoyed
+    - I'm super annoyed
+    - I'm so mad.
     - I'm enraged
-    - I’m straight up angry.
+    - I'm straight up angry.
     - This is maddening!
     - I'm pissed off
     - I'm pissed
@@ -141,7 +149,9 @@ nlu:
     - That startled me!
     - I'm spooked easily
     - I'm trembling from fear
+    - I'm afraid of the dark
     - I'm horrified
+    - I'm panicking
 - intent: mood_nervous
   examples: |
     - I am nervous
@@ -173,11 +183,11 @@ nlu:
     - I'm under a lot of stress
     - I'm constantly worried
     - I feel constant tension
-    - I’m anxious.
-    - I’m suffering from anxiety.
-    - I’ve been feeling rather anxious lately.
+    - I'm anxious.
+    - I'm suffering from anxiety.
+    - I've been feeling rather anxious lately.
     - My anxiety is rather through the roof these days.
-    - I’m feeling rather restless
+    - I'm feeling rather restless
     - I cannot concentrate as I'm worried constantly
     - I'm under immense stress
     - It's been a rough couple of days. VERY stressful
@@ -185,7 +195,7 @@ nlu:
     - There's been quite a few changes in my life. I don't think I am handling them well. It's quite stressful.
     - I find myself worrying about every little detail
     - I am a chronic worrier.
-    - I’m feeling rather restless and a horde of worries is bothering me
+    - I'm feeling rather restless and a horde of worries is bothering me
     - I cannot concentrate due to the whole number of worries that are bothering me
 - intent: mood_bored
   examples: |
